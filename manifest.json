@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "https://psmith30364.github.io",
+  "display": "standalone"
+}
