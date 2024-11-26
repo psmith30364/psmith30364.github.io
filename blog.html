@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Блог о кино - Ultracinema</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Подключение пушей -->
+    <script src="https://pxl.polina-zakaryan.dev.altkraft.com/ak_container.js?id=NXw1"></script>
+
+</head>
+
+<body>
+    <nav>
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="https://ultracinema.site/">
+                    <img src="img/logo.png" alt="Логотип">
+                </a>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="https://ultracinema.site/">Новинки</a></li>
+                <li><a href="https://ultracinema.site/movies/">Фильмы</a></li>
+                <li><a href="https://ultracinema.site/trip/">Сериалы</a></li>
+                <li><a href="https://ultracinema.site/blog/">О кино</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header>
+        <div>
+            <h1>Блог о кино</h1>
+            <p>Смотрите фильмы с другой стороны</p>
+        </div>
+    </header>
+
+    <section class="popular-posts">
+        <div class="container">
+            <h2>Самые популярные посты</h2>
+            <p>Наше стремление к инновациям в киноиндустрии позволяет нам предлагать свежие обзоры, уникальные инсайты и
+                актуальные новости, которые отражают современные тенденции и предпочтения кинозрителей.</p>
+            <div class="post-cards">
+                <div class="post-card large-card">
+                    <img src="img/card1.jpeg" alt="10 советов для настоящих кинолюбителей">
+                    <h3>10 советов для настоящих кинолюбителей</h3>
+                </div>
+                <div class="small-cards">
+                    <div class="post-card small-card top">
+                        <img src="img/card2.jpg" alt="Как смотреть хорроры с друзьями">
+                        <h3>Как смотреть хорроры с друзьями</h3>
+                    </div>
+                    <div class="post-card small-card bottom">
+                        <img src="img/card3.jpg" alt="Подборка фильмов на 1 апреля">
+                        <h3>Подборка фильмов на 1 апреля</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="container">
+        <section class="articles">
+            <h2>Последние статьи</h2>
+
+            <!-- Карточка 1 -->
+            <div class="article-card">
+                <a href="tarantino-cooking-book.html" target="_blank">
+                    <img src="img/fanned-book.jpg" alt="Изображение 1">
+                </a>
+                <div class="article-card-content">
+                    <p class="meta">admin | Ноя 7, 2024 | События | 0 комментариев</p>
+                    <h3><a href="tarantino-cooking-book.html" target="_blank">Квентин Тарантино выпускает кулинарную
+                            книгу “Омерзительная кухня”</a></h3>
+                    <p>Лос-Анджелес, Калифорния - Знаменитый режиссер Квентин Тарантино удивил всех...</p>
+                </div>
+            </div>
+
+            <!-- Карточка 2 -->
+            <div class="article-card">
+                <a href="golden-popcorn-award.html" target="_blank">
+                    <img src="img/popcorn.png" alt="Изображение 2">
+                </a>
+                <div class="article-card-content">
+                    <p class="meta">admin | Май 29, 2024 | События | 0 комментариев</p>
+                    <h3><a href="golden-popcorn-award.html" target="_blank">Новая кинонаграда “Золотой Попкорн” за
+                            лучшую сцену поедания еды</a></h3>
+                    <p>Киноакадемия учредила новую награду "Золотой Попкорн"...</p>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>Copyright &copy; 2024 Ultracinema. Все права защищены.</p>
+    </footer>
+
+    <button id="init_sub">Подписаться на уведомления</button> // Кнопка подписки
+
+
+    <script>
+        document.getElementById('init_sub').addEventListener('click', function () { // По клику на кнопку..
+            try {
+                var akPush = new AKPush();
+                akPush.initSubscription() // ..показать форму подписки
+            }
+            catch (e) {
+                console.log(e); // Или записать ошибку в консоль браузера
+            }
+        });
+    </script>
+</body>
+
+</html>
