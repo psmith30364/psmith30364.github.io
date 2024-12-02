@@ -7,9 +7,13 @@ body {
 }
 
 nav {
-    background-color: #ffffff;
+    background-color: #f9f9f9;
     border-bottom: 1px solid #ddd;
     padding: 5px 0;
+    max-width: 1080px;
+    /* Устанавливаем максимальную ширину */
+    margin: 0 auto;
+    /* Центрируем nav */
 }
 
 .nav-container {
@@ -217,6 +221,49 @@ a {
 
 .small-card {
     margin-bottom: 0;
+}
+
+.article-content {
+    color: #666;
+    font-size: 14px;
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.article-meta,
+.new-posts-list {
+    color: #666;
+    font-size: 14px;
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.article-title {
+    color: #333;
+    font-size: 30px;
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.new-posts-title,
+.last-comment-title {
+    color: #333;
+    font-size: 18px;
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.new-posts-list a {
+    text-decoration: none;
+    color: #666;
+    font-size: 16px;
+}
+
+.new-posts-list a:hover {
+    color: #2ea3f2;
+}
+
+
+@media (max-width: 1024px) {
+    .nav-container {
+        max-width: 768px;
+    }
 }
 
 @media (max-width: 768px) {
