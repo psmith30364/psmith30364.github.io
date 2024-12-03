@@ -1,14 +1,79 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test push page</title>
-    <script src="https://pxl.polina-zakaryan.dev.altkraft.com/ak_container.js?id=NXw1" ></script>
+    <title>Блог о кино - Ultracinema</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
 </head>
+
 <body>
-    <p>Просто текст</p>
-        
+    <!-- Шапка -->
+    <nav>
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="https://ultracinema.site/">
+                    <img src="img/logo.png" alt="Логотип">
+                </a>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#">Новинки</a></li>
+                <li><a href="movies/">Фильмы</a></li>
+                <li><a href="#">Сериалы</a></li>
+                <li><a href="blog">О кино</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Основной блок -->
+    <div class="main-block">
+        <h1>Погружение в кино</h1>
+        <p>Новинки, классика, последние новости в мире кино</p>
+        <a class="join-btn" href="#">Присоединиться</a>
+    </div>
+
+    <!-- Блок статистики -->
+    <div class="stats-block">
+        <div class="stats-item">
+            <h2 data-target="2159">0</h2>
+            <h3>Фильмов</h3>
+        </div>
+        <div class="stats-item">
+            <h2 data-target="490">0</h2>
+            <h3>Сериалов</h3>
+        </div>
+        <div class="stats-item">
+            <h2 data-target="95">0</h2>
+            <h3>Режиссеров</h3>
+        </div>
+        <div class="stats-item">
+            <h2 data-target="200">0</h2>
+            <h3>Постов о кино</h3>
+        </div>
+    </div>
+
+    <!-- Слайдер -->
+    <div class="slider">
+        <div class="slider-wrapper">
+            <div class="slide">
+                <img src="img/movie1.jpg" alt="Фильм">
+                <h4>Поймай меня, если сможешь</h4>
+                <p>Трагикомедия</p>
+                <a href="#">Смотреть</a>
+            </div>
+            <div class="slide">
+                <img src="img/movie2.jpg" alt="Фильм">
+                <h4>Интерстеллар</h4>
+                <p>Фантастика</p>
+                <a href="#">Смотреть</a>
+            </div>
+        </div>
+    </div>
 <button id="init_sub">Подписаться на уведомления</button> // Кнопка подписки
 
 <script>
@@ -22,6 +87,36 @@
 		}
 	});
 </script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const statsBlock = document.querySelector(".stats-block");
+            const counters = document.querySelectorAll(".stats-item h2");
 
+            // Плавное появление блока статистики
+            setTimeout(() => {
+                statsBlock.classList.add("visible");
+            }, 200);
+
+            // Анимация счётчиков
+            counters.forEach(counter => {
+                const updateCounter = () => {
+                    const target = +counter.getAttribute("data-target");
+                    const current = +counter.innerText;
+                    const increment = Math.ceil(target / 100);
+
+                    if (current < target) {
+                        counter.innerText = current + increment;
+                        setTimeout(updateCounter, 10);
+                    } else {
+                        counter.innerText = target;
+                    }
+                };
+
+                updateCounter();
+            });
+        });
+    </script>
 </body>
+
 </html>
+
