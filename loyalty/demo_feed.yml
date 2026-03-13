@@ -5,25 +5,17 @@
     <company>Demo Sneakers Shop LLC</company>
     <url>https://sneakersdemoshop.com</url>
     
-    <!-- Категории -->
+
     <categories>
-      <!-- Корневые категории -->
+
       <category id="sneakers">Кроссовки</category>
-      
-      <!-- Женские кроссовки -->
       <category id="sneakers_women" parentId="sneakers">Женские кроссовки</category>
-      
       <category id="nike_women" parentId="sneakers_women">Nike</category>
       
     </categories>
 
     <offers>
       
-      <!-- ========== ЖЕНСКИЕ КРОССОВКИ ========== -->
-      
-      <!-- NIKE -->
-      
-      <!-- PRODUCT 1: Nike Air Force 1 '07 White -->
       <offer id="product1_white" available="true">
         <name>Nike Женские кроссовки Air Force 1 '07 White</name>
         <price>19999</price>
