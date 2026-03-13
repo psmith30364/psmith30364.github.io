@@ -13,7 +13,7 @@
       <!-- Женские кроссовки -->
       <category id="sneakers_women" parentId="sneakers">Женские кроссовки</category>
       
-      <category id="nike_women" parentId="sneakers_women"
+      <category id="nike_women" parentId="sneakers_women">Nike</category>
       
     </categories>
 
