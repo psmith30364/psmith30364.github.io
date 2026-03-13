@@ -9,25 +9,12 @@
     <categories>
       <!-- Корневые категории -->
       <category id="sneakers">Кроссовки</category>
-      <category id="accessories">Аксессуары</category>
-      
-      <!-- Мужские кроссовки -->
-      <category id="sneakers_men" parentId="sneakers">Мужские кроссовки</category>
-      <category id="nike_men" parentId="sneakers_men">Nike</category>
-      <category id="jordan_men" parentId="sneakers_men">Jordan</category>
-      <category id="new_balance_men" parentId="sneakers_men">New Balance</category>
-      <category id="adidas_men" parentId="sneakers_men">adidas</category>
       
       <!-- Женские кроссовки -->
       <category id="sneakers_women" parentId="sneakers">Женские кроссовки</category>
-      <category id="nike_women" parentId="sneakers_women">Nike</category>
-      <category id="jordan_women" parentId="sneakers_women">Jordan</category>
-      <category id="new_balance_women" parentId="sneakers_women">New Balance</category>
-      <category id="adidas_women" parentId="sneakers_women">adidas</category>
       
-      <!-- Аксессуары -->
-      <category id="socks" parentId="accessories">Носки</category>
-      <category id="care" parentId="accessories">Уход за обувью</category>
+      <category id="nike_women" parentId="sneakers_women"
+      
     </categories>
 
     <offers>
