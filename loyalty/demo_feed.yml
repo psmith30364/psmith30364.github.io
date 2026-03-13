@@ -41,6 +41,8 @@
         <name>Nike Женские кроссовки Air Force 1 '07 White</name>
         <price>19999</price>
         <currencyId>RUB</currencyId>
+        <categoryId>sneakers</categoryId>
+        <categoryId>sneakers_women</categoryId>
         <categoryId>nike_women</categoryId>
         <vendor>Nike</vendor>
         <url>https://sneakersdemoshop.com/nike-air-force-1-07-white</url>
