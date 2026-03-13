@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-03-12 21:00">
+  <shop>
+    <name>Demo Sneakers Shop</name>
+    <company>Demo Sneakers Shop LLC</company>
+    <url>https://sneakersdemoshop.com</url>
+    
+    <!-- Категории -->
+    <categories>
+      <!-- Корневые категории -->
+      <category id="sneakers">Кроссовки</category>
+      <category id="accessories">Аксессуары</category>
+      
+      <!-- Мужские кроссовки -->
+      <category id="sneakers_men" parentId="sneakers">Мужские кроссовки</category>
+      <category id="nike_men" parentId="sneakers_men">Nike</category>
+      <category id="jordan_men" parentId="sneakers_men">Jordan</category>
+      <category id="new_balance_men" parentId="sneakers_men">New Balance</category>
+      <category id="adidas_men" parentId="sneakers_men">adidas</category>
+      
+      <!-- Женские кроссовки -->
+      <category id="sneakers_women" parentId="sneakers">Женские кроссовки</category>
+      <category id="nike_women" parentId="sneakers_women">Nike</category>
+      <category id="jordan_women" parentId="sneakers_women">Jordan</category>
+      <category id="new_balance_women" parentId="sneakers_women">New Balance</category>
+      <category id="adidas_women" parentId="sneakers_women">adidas</category>
+      
+      <!-- Аксессуары -->
+      <category id="socks" parentId="accessories">Носки</category>
+      <category id="care" parentId="accessories">Уход за обувью</category>
+    </categories>
+
+    <offers>
+      
+      <!-- ========== ЖЕНСКИЕ КРОССОВКИ ========== -->
+      
+      <!-- NIKE -->
+      
+      <!-- PRODUCT 1: Nike Air Force 1 '07 White -->
+      <offer id="product1_white" available="true">
+        <name>Nike Женские кроссовки Air Force 1 '07 White</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_women</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-white</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-white.jpg</picture>
+        
+        <param name="product_collection">Air Force 1</param>
+        <param name="product_gender">Женские</param>
+        <param name="product_color">White</param>
+        <param name="product_rating">4.8</param>
+      </offer>
+      
+      <offer id="sku1_white_36" group_id="product1_white" available="true">
+        <name>Nike Air Force 1 '07 White (36)</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_women</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-white-36</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-white-36.jpg</picture>
+        <count>25</count>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">36</param>
+      </offer>
+      
+      <offer id="sku1_white_37" group_id="product1_white" available="true">
+        <name>Nike Air Force 1 '07 White (37)</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_women</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-white-37</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-white-37.jpg</picture>
+        <count>30</count>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">37</param>
+      </offer>
+      
+      <offer id="sku1_white_38" group_id="product1_white" available="true">
+        <name>Nike Air Force 1 '07 White (38)</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_women</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-white-38</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-white-38.jpg</picture>
+        <count>28</count>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">38</param>
+      </offer>
+      
+      <offer id="sku1_white_39" group_id="product1_white" available="true">
+        <name>Nike Air Force 1 '07 White (39)</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_women</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-white-39</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-white-39.jpg</picture>
+        <count>22</count>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">39</param>
+      </offer>
+      
+      <!-- PRODUCT 2: Nike Air Force 1 '07 Pink -->
+      <offer id="product1_pink" available="true">
+        <name>Nike Женские кроссовки Air Force 1 '07 Pink</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_women</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-pink</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-pink.jpg</picture>
+        
+        <param name="product_collection">Air Force 1</param>
+        <param name="product_gender">Женские</param>
+        <param name="product_color">Pink</param>
+        <param name="product_rating">4.8</param>
+      </offer>
+      
+      <offer id="sku1_pink_36" group_id="product1_pink" available="true">
+        <name>Nike Air Force 1 '07 Pink (36)</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_women</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-pink-36</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-pink-36.jpg</picture>
+        <count>15</count>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Pink</param>
+        <param name="sku_size">36</param>
+      </offer>
+      
+      <offer id="sku1_pink_37" group_id="product1_pink" available="true">
+        <name>Nike Air Force 1 '07 Pink (37)</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_women</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-pink-37</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-pink-37.jpg</picture>
+        <count>18</count>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Pink</param>
+        <param name="sku_size">37</param>
+      </offer>
+      
+      <offer id="sku1_pink_38" group_id="product1_pink" available="true">
+        <name>Nike Air Force 1 '07 Pink (38)</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_women</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-pink-38</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-pink-38.jpg</picture>
+        <count>20</count>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Pink</param>
+        <param name="sku_size">38</param>
+      </offer>
+      
+      <offer id="sku1_pink_39" group_id="product1_pink" available="true">
+        <name>Nike Air Force 1 '07 Pink (39)</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_women</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-pink-39</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-pink-39.jpg</picture>
+        <count>12</count>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Pink</param>
+        <param name="sku_size">39</param>
+      </offer>
+      
+      <!-- ADIDAS -->
+      
+      <!-- PRODUCT 3: adidas Adizero Evo SL -->
+      <offer id="product14" available="true">
+        <name>adidas Женские кроссовки Adizero Evo SL</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_women</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-adizero-evo-sl</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-adizero-evo-sl.jpg</picture>
+        
+        <param name="product_collection">Adizero</param>
+        <param name="product_gender">Женские</param>
+        <param name="product_color">Black/White</param>
+        <param name="product_rating">5.0</param>
+      </offer>
+      
+      <offer id="sku14_36" group_id="product14" available="true">
+        <name>adidas Adizero Evo SL (36)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_women</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-adizero-evo-sl-36</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-adizero-evo-sl-36.jpg</picture>
+        <count>18</count>
+        <param name="sku_collection">Adizero</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Black/White</param>
+        <param name="sku_size">36</param>
+      </offer>
+      
+      <offer id="sku14_37" group_id="product14" available="true">
+        <name>adidas Adizero Evo SL (37)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_women</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-adizero-evo-sl-37</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-adizero-evo-sl-37.jpg</picture>
+        <count>22</count>
+        <param name="sku_collection">Adizero</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Black/White</param>
+        <param name="sku_size">37</param>
+      </offer>
+      
+      <offer id="sku14_38" group_id="product14" available="true">
+        <name>adidas Adizero Evo SL (38)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_women</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-adizero-evo-sl-38</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-adizero-evo-sl-38.jpg</picture>
+        <count>24</count>
+        <param name="sku_collection">Adizero</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Black/White</param>
+        <param name="sku_size">38</param>
+      </offer>
+      
+      <offer id="sku14_39" group_id="product14" available="true">
+        <name>adidas Adizero Evo SL (39)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_women</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-adizero-evo-sl-39</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-adizero-evo-sl-39.jpg</picture>
+        <count>16</count>
+        <param name="sku_collection">Adizero</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Black/White</param>
+        <param name="sku_size">39</param>
+      </offer>
+      
+      <!-- PRODUCT 4: adidas Samba OG White -->
+      <offer id="product15_white" available="true">
+        <name>adidas Женские кроссовки Samba OG White</name>
+        <price>18999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_women</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-samba-og-white</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-samba-og-white.jpg</picture>
+        
+        <param name="product_collection">Samba</param>
+        <param name="product_gender">Женские</param>
+        <param name="product_color">White</param>
+        <param name="product_rating">4.4</param>
+      </offer>
+      
+      <offer id="sku15_white_36" group_id="product15_white" available="true">
+        <name>adidas Samba OG White (36)</name>
+        <price>18999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_women</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-samba-og-white-36</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-samba-og-white-36.jpg</picture>
+        <count>12</count>
+        <param name="sku_collection">Samba</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">36</param>
+      </offer>
+      
+      <offer id="sku15_white_37" group_id="product15_white" available="true">
+        <name>adidas Samba OG White (37)</name>
+        <price>18999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_women</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-samba-og-white-37</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-samba-og-white-37.jpg</picture>
+        <count>14</count>
+        <param name="sku_collection">Samba</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">37</param>
+      </offer>
+      
+      <offer id="sku15_white_38" group_id="product15_white" available="true">
+        <name>adidas Samba OG White (38)</name>
+        <price>18999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_women</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-samba-og-white-38</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-samba-og-white-38.jpg</picture>
+        <count>15</count>
+        <param name="sku_collection">Samba</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">38</param>
+      </offer>
+      
+      <offer id="sku15_white_39" group_id="product15_white" available="true">
+        <name>adidas Samba OG White (39)</name>
+        <price>18999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_women</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-samba-og-white-39</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-samba-og-white-39.jpg</picture>
+        <count>10</count>
+        <param name="sku_collection">Samba</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">39</param>
+      </offer>
+      
+      <!-- NEW BALANCE -->
+      
+      <!-- PRODUCT 5: New Balance 574 Blue -->
+      <offer id="product12_blue" available="true">
+        <name>New Balance Женские кроссовки 574 Blue</name>
+        <price>18999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_women</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-574-blue</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-574-blue.jpg</picture>
+        
+        <param name="product_collection">574</param>
+        <param name="product_gender">Женские</param>
+        <param name="product_color">Blue</param>
+        <param name="product_rating">4.9</param>
+      </offer>
+      
+      <offer id="sku12_blue_36" group_id="product12_blue" available="true">
+        <name>New Balance 574 Blue (36)</name>
+        <price>18999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_women</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-574-blue-36</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-574-blue-36.jpg</picture>
+        <count>20</count>
+        <param name="sku_collection">574</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Blue</param>
+        <param name="sku_size">36</param>
+      </offer>
+      
+      <offer id="sku12_blue_37" group_id="product12_blue" available="true">
+        <name>New Balance 574 Blue (37)</name>
+        <price>18999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_women</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-574-blue-37</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-574-blue-37.jpg</picture>
+        <count>25</count>
+        <param name="sku_collection">574</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Blue</param>
+        <param name="sku_size">37</param>
+      </offer>
+      
+      <offer id="sku12_blue_38" group_id="product12_blue" available="true">
+        <name>New Balance 574 Blue (38)</name>
+        <price>18999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_women</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-574-blue-38</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-574-blue-38.jpg</picture>
+        <count>22</count>
+        <param name="sku_collection">574</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Blue</param>
+        <param name="sku_size">38</param>
+      </offer>
+      
+      <offer id="sku12_blue_39" group_id="product12_blue" available="true">
+        <name>New Balance 574 Blue (39)</name>
+        <price>18999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_women</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-574-blue-39</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-574-blue-39.jpg</picture>
+        <count>18</count>
+        <param name="sku_collection">574</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Blue</param>
+        <param name="sku_size">39</param>
+      </offer>
+      
+      <!-- PRODUCT 6: New Balance 574 Beige -->
+      <offer id="product12_beige" available="true">
+        <name>New Balance Женские кроссовки 574 Beige</name>
+        <price>15399</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_women</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-574-beige</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-574-beige.jpg</picture>
+        
+        <param name="product_collection">574</param>
+        <param name="product_gender">Женские</param>
+        <param name="product_color">Beige</param>
+        <param name="product_rating">4.9</param>
+      </offer>
+      
+      <offer id="sku12_beige_36" group_id="product12_beige" available="true">
+        <name>New Balance 574 Beige (36)</name>
+        <price>15399</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_women</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-574-beige-36</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-574-beige-36.jpg</picture>
+        <count>15</count>
+        <param name="sku_collection">574</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Beige</param>
+        <param name="sku_size">36</param>
+      </offer>
+      
+      <offer id="sku12_beige_37" group_id="product12_beige" available="true">
+        <name>New Balance 574 Beige (37)</name>
+        <price>15399</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_women</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-574-beige-37</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-574-beige-37.jpg</picture>
+        <count>18</count>
+        <param name="sku_collection">574</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Beige</param>
+        <param name="sku_size">37</param>
+      </offer>
+      
+      <offer id="sku12_beige_38" group_id="product12_beige" available="true">
+        <name>New Balance 574 Beige (38)</name>
+        <price>15399</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_women</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-574-beige-38</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-574-beige-38.jpg</picture>
+        <count>20</count>
+        <param name="sku_collection">574</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Beige</param>
+        <param name="sku_size">38</param>
+      </offer>
+      
+      <offer id="sku12_beige_39" group_id="product12_beige" available="true">
+        <name>New Balance 574 Beige (39)</name>
+        <price>15399</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_women</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-574-beige-39</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-574-beige-39.jpg</picture>
+        <count>12</count>
+        <param name="sku_collection">574</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_color">Beige</param>
+        <param name="sku_size">39</param>
+      </offer>
+      
+      <!-- ========== МУЖСКИЕ КРОССОВКИ ========== -->
+      
+      <!-- NIKE -->
+      
+      <!-- PRODUCT 7: Nike Air Force 1 '07 White (Мужские) -->
+      <offer id="product21_white" available="true">
+        <name>Nike Мужские кроссовки Air Force 1 '07 White</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_men</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-white-men</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-white-men.jpg</picture>
+        
+        <param name="product_collection">Air Force 1</param>
+        <param name="product_gender">Мужские</param>
+        <param name="product_color">White</param>
+        <param name="product_rating">4.4</param>
+      </offer>
+      
+      <offer id="sku21_white_40" group_id="product21_white" available="true">
+        <name>Nike Air Force 1 '07 White (40)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_men</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-white-40</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-white-40.jpg</picture>
+        <count>10</count>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">40</param>
+      </offer>
+      
+      <offer id="sku21_white_41" group_id="product21_white" available="true">
+        <name>Nike Air Force 1 '07 White (41)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_men</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-white-41</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-white-41.jpg</picture>
+        <count>12</count>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">41</param>
+      </offer>
+      
+      <offer id="sku21_white_42" group_id="product21_white" available="true">
+        <name>Nike Air Force 1 '07 White (42)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_men</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-white-42</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-white-42.jpg</picture>
+        <count>15</count>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">42</param>
+      </offer>
+      
+      <offer id="sku21_white_43" group_id="product21_white" available="true">
+        <name>Nike Air Force 1 '07 White (43)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_men</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-white-43</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-white-43.jpg</picture>
+        <count>14</count>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">43</param>
+      </offer>
+      
+      <offer id="sku21_white_44" group_id="product21_white" available="true">
+        <name>Nike Air Force 1 '07 White (44)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_men</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-white-44</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-white-44.jpg</picture>
+        <count>8</count>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">44</param>
+      </offer>
+      
+      <offer id="sku21_white_45" group_id="product21_white" available="true">
+        <name>Nike Air Force 1 '07 White (45)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_men</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-force-1-07-white-45</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-force-1-07-white-45.jpg</picture>
+        <count>6</count>
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">45</param>
+      </offer>
+      
+      <!-- PRODUCT 8: Nike Air Max 90 Black -->
+      <offer id="product22_black" available="true">
+        <name>Nike Мужские кроссовки Air Max 90 Black</name>
+        <price>23999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_men</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-max-90-black</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-max-90-black.jpg</picture>
+        
+        <param name="product_collection">Air Max 90</param>
+        <param name="product_gender">Мужские</param>
+        <param name="product_color">Black</param>
+        <param name="product_rating">4.5</param>
+      </offer>
+      
+      <offer id="sku22_black_40" group_id="product22_black" available="true">
+        <name>Nike Air Max 90 Black (40)</name>
+        <price>23999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_men</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-max-90-black-40</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-max-90-black-40.jpg</picture>
+        <count>25</count>
+        <param name="sku_collection">Air Max 90</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">40</param>
+      </offer>
+      
+      <offer id="sku22_black_41" group_id="product22_black" available="true">
+        <name>Nike Air Max 90 Black (41)</name>
+        <price>23999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_men</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-max-90-black-41</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-max-90-black-41.jpg</picture>
+        <count>30</count>
+        <param name="sku_collection">Air Max 90</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">41</param>
+      </offer>
+      
+      <offer id="sku22_black_42" group_id="product22_black" available="true">
+        <name>Nike Air Max 90 Black (42)</name>
+        <price>23999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_men</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-max-90-black-42</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-max-90-black-42.jpg</picture>
+        <count>35</count>
+        <param name="sku_collection">Air Max 90</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">42</param>
+      </offer>
+      
+      <offer id="sku22_black_43" group_id="product22_black" available="true">
+        <name>Nike Air Max 90 Black (43)</name>
+        <price>23999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_men</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-max-90-black-43</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-max-90-black-43.jpg</picture>
+        <count>28</count>
+        <param name="sku_collection">Air Max 90</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">43</param>
+      </offer>
+      
+      <offer id="sku22_black_44" group_id="product22_black" available="true">
+        <name>Nike Air Max 90 Black (44)</name>
+        <price>23999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_men</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-max-90-black-44</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-max-90-black-44.jpg</picture>
+        <count>20</count>
+        <param name="sku_collection">Air Max 90</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">44</param>
+      </offer>
+      
+      <offer id="sku22_black_45" group_id="product22_black" available="true">
+        <name>Nike Air Max 90 Black (45)</name>
+        <price>23999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>nike_men</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://sneakersdemoshop.com/nike-air-max-90-black-45</url>
+        <picture>https://sneakersdemoshop.com/images/nike-air-max-90-black-45.jpg</picture>
+        <count>15</count>
+        <param name="sku_collection">Air Max 90</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">45</param>
+      </offer>
+      
+      <!-- ADIDAS -->
+      
+      <!-- PRODUCT 9: adidas Adizero Evo SL White (Мужские) -->
+      <offer id="product31_white" available="true">
+        <name>adidas Мужские кроссовки Adizero Evo SL White</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_men</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-adizero-evo-sl-white</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-adizero-evo-sl-white.jpg</picture>
+        
+        <param name="product_collection">Adizero</param>
+        <param name="product_gender">Мужские</param>
+        <param name="product_color">White</param>
+        <param name="product_rating">5.0</param>
+      </offer>
+      
+      <offer id="sku31_white_40" group_id="product31_white" available="true">
+        <name>adidas Adizero Evo SL White (40)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_men</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-adizero-evo-sl-white-40</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-adizero-evo-sl-white-40.jpg</picture>
+        <count>12</count>
+        <param name="sku_collection">Adizero</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">40</param>
+      </offer>
+      
+      <offer id="sku31_white_41" group_id="product31_white" available="true">
+        <name>adidas Adizero Evo SL White (41)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_men</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-adizero-evo-sl-white-41</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-adizero-evo-sl-white-41.jpg</picture>
+        <count>15</count>
+        <param name="sku_collection">Adizero</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">41</param>
+      </offer>
+      
+      <offer id="sku31_white_42" group_id="product31_white" available="true">
+        <name>adidas Adizero Evo SL White (42)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_men</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-adizero-evo-sl-white-42</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-adizero-evo-sl-white-42.jpg</picture>
+        <count>18</count>
+        <param name="sku_collection">Adizero</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">42</param>
+      </offer>
+      
+      <offer id="sku31_white_43" group_id="product31_white" available="true">
+        <name>adidas Adizero Evo SL White (43)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_men</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-adizero-evo-sl-white-43</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-adizero-evo-sl-white-43.jpg</picture>
+        <count>16</count>
+        <param name="sku_collection">Adizero</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">43</param>
+      </offer>
+      
+      <offer id="sku31_white_44" group_id="product31_white" available="true">
+        <name>adidas Adizero Evo SL White (44)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_men</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-adizero-evo-sl-white-44</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-adizero-evo-sl-white-44.jpg</picture>
+        <count>12</count>
+        <param name="sku_collection">Adizero</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">44</param>
+      </offer>
+      
+      <offer id="sku31_white_45" group_id="product31_white" available="true">
+        <name>adidas Adizero Evo SL White (45)</name>
+        <price>21999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_men</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-adizero-evo-sl-white-45</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-adizero-evo-sl-white-45.jpg</picture>
+        <count>8</count>
+        <param name="sku_collection">Adizero</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">White</param>
+        <param name="sku_size">45</param>
+      </offer>
+      
+      <!-- PRODUCT 10: adidas Samba OG Black (Мужские) -->
+      <offer id="product35_black" available="true">
+        <name>adidas Мужские кроссовки Samba OG Black</name>
+        <price>14999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_men</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-samba-og-black</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-samba-og-black.jpg</picture>
+        
+        <param name="product_collection">Samba</param>
+        <param name="product_gender">Мужские</param>
+        <param name="product_color">Black</param>
+        <param name="product_rating">4.6</param>
+      </offer>
+      
+      <offer id="sku35_black_40" group_id="product35_black" available="true">
+        <name>adidas Samba OG Black (40)</name>
+        <price>14999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_men</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-samba-og-black-40</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-samba-og-black-40.jpg</picture>
+        <count>10</count>
+        <param name="sku_collection">Samba</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">40</param>
+      </offer>
+      
+      <offer id="sku35_black_41" group_id="product35_black" available="true">
+        <name>adidas Samba OG Black (41)</name>
+        <price>14999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_men</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-samba-og-black-41</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-samba-og-black-41.jpg</picture>
+        <count>12</count>
+        <param name="sku_collection">Samba</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">41</param>
+      </offer>
+      
+      <offer id="sku35_black_42" group_id="product35_black" available="true">
+        <name>adidas Samba OG Black (42)</name>
+        <price>14999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_men</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-samba-og-black-42</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-samba-og-black-42.jpg</picture>
+        <count>15</count>
+        <param name="sku_collection">Samba</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">42</param>
+      </offer>
+      
+      <offer id="sku35_black_43" group_id="product35_black" available="true">
+        <name>adidas Samba OG Black (43)</name>
+        <price>14999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_men</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-samba-og-black-43</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-samba-og-black-43.jpg</picture>
+        <count>14</count>
+        <param name="sku_collection">Samba</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">43</param>
+      </offer>
+      
+      <offer id="sku35_black_44" group_id="product35_black" available="true">
+        <name>adidas Samba OG Black (44)</name>
+        <price>14999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_men</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-samba-og-black-44</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-samba-og-black-44.jpg</picture>
+        <count>8</count>
+        <param name="sku_collection">Samba</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">44</param>
+      </offer>
+      
+      <offer id="sku35_black_45" group_id="product35_black" available="true">
+        <name>adidas Samba OG Black (45)</name>
+        <price>14999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>adidas_men</categoryId>
+        <vendor>adidas</vendor>
+        <url>https://sneakersdemoshop.com/adidas-samba-og-black-45</url>
+        <picture>https://sneakersdemoshop.com/images/adidas-samba-og-black-45.jpg</picture>
+        <count>5</count>
+        <param name="sku_collection">Samba</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">45</param>
+      </offer>
+      
+      <!-- NEW BALANCE -->
+      
+      <!-- PRODUCT 11: New Balance 1000 Silver -->
+      <offer id="product32_silver" available="true">
+        <name>New Balance Мужские кроссовки 1000 Silver</name>
+        <price>26999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_men</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-1000-silver</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-1000-silver.jpg</picture>
+        
+        <param name="product_collection">1000</param>
+        <param name="product_gender">Мужские</param>
+        <param name="product_color">Silver</param>
+        <param name="product_rating">4.9</param>
+      </offer>
+      
+      <offer id="sku32_silver_40" group_id="product32_silver" available="true">
+        <name>New Balance 1000 Silver (40)</name>
+        <price>26999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_men</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-1000-silver-40</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-1000-silver-40.jpg</picture>
+        <count>8</count>
+        <param name="sku_collection">1000</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Silver</param>
+        <param name="sku_size">40</param>
+      </offer>
+      
+      <offer id="sku32_silver_41" group_id="product32_silver" available="true">
+        <name>New Balance 1000 Silver (41)</name>
+        <price>26999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_men</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-1000-silver-41</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-1000-silver-41.jpg</picture>
+        <count>10</count>
+        <param name="sku_collection">1000</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Silver</param>
+        <param name="sku_size">41</param>
+      </offer>
+      
+      <offer id="sku32_silver_42" group_id="product32_silver" available="true">
+        <name>New Balance 1000 Silver (42)</name>
+        <price>26999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_men</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-1000-silver-42</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-1000-silver-42.jpg</picture>
+        <count>12</count>
+        <param name="sku_collection">1000</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Silver</param>
+        <param name="sku_size">42</param>
+      </offer>
+      
+      <offer id="sku32_silver_43" group_id="product32_silver" available="true">
+        <name>New Balance 1000 Silver (43)</name>
+        <price>26999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_men</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-1000-silver-43</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-1000-silver-43.jpg</picture>
+        <count>10</count>
+        <param name="sku_collection">1000</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Silver</param>
+        <param name="sku_size">43</param>
+      </offer>
+      
+      <offer id="sku32_silver_44" group_id="product32_silver" available="true">
+        <name>New Balance 1000 Silver (44)</name>
+        <price>26999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_men</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-1000-silver-44</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-1000-silver-44.jpg</picture>
+        <count>6</count>
+        <param name="sku_collection">1000</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Silver</param>
+        <param name="sku_size">44</param>
+      </offer>
+      
+      <offer id="sku32_silver_45" group_id="product32_silver" available="true">
+        <name>New Balance 1000 Silver (45)</name>
+        <price>26999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_men</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-1000-silver-45</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-1000-silver-45.jpg</picture>
+        <count>4</count>
+        <param name="sku_collection">1000</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Silver</param>
+        <param name="sku_size">45</param>
+      </offer>
+      
+      <!-- PRODUCT 12: New Balance 1000 Black -->
+      <offer id="product32_black" available="true">
+        <name>New Balance Мужские кроссовки 1000 Black</name>
+        <price>22999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_men</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-1000-black</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-1000-black.jpg</picture>
+        
+        <param name="product_collection">1000</param>
+        <param name="product_gender">Мужские</param>
+        <param name="product_color">Black</param>
+        <param name="product_rating">4.9</param>
+      </offer>
+      
+      <offer id="sku32_black_40" group_id="product32_black" available="true">
+        <name>New Balance 1000 Black (40)</name>
+        <price>22999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_men</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-1000-black-40</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-1000-black-40.jpg</picture>
+        <count>15</count>
+        <param name="sku_collection">1000</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">40</param>
+      </offer>
+      
+      <offer id="sku32_black_41" group_id="product32_black" available="true">
+        <name>New Balance 1000 Black (41)</name>
+        <price>22999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_men</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-1000-black-41</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-1000-black-41.jpg</picture>
+        <count>18</count>
+        <param name="sku_collection">1000</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">41</param>
+      </offer>
+      
+      <offer id="sku32_black_42" group_id="product32_black" available="true">
+        <name>New Balance 1000 Black (42)</name>
+        <price>22999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_men</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-1000-black-42</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-1000-black-42.jpg</picture>
+        <count>22</count>
+        <param name="sku_collection">1000</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">42</param>
+      </offer>
+      
+      <offer id="sku32_black_43" group_id="product32_black" available="true">
+        <name>New Balance 1000 Black (43)</name>
+        <price>22999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_men</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-1000-black-43</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-1000-black-43.jpg</picture>
+        <count>20</count>
+        <param name="sku_collection">1000</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">43</param>
+      </offer>
+      
+      <offer id="sku32_black_44" group_id="product32_black" available="true">
+        <name>New Balance 1000 Black (44)</name>
+        <price>22999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_men</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-1000-black-44</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-1000-black-44.jpg</picture>
+        <count>15</count>
+        <param name="sku_collection">1000</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">44</param>
+      </offer>
+      
+      <offer id="sku32_black_45" group_id="product32_black" available="true">
+        <name>New Balance 1000 Black (45)</name>
+        <price>22999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>new_balance_men</categoryId>
+        <vendor>New Balance</vendor>
+        <url>https://sneakersdemoshop.com/new-balance-1000-black-45</url>
+        <picture>https://sneakersdemoshop.com/images/new-balance-1000-black-45.jpg</picture>
+        <count>10</count>
+        <param name="sku_collection">1000</param>
+        <param name="sku_gender">Мужские</param>
+        <param name="sku_color">Black</param>
+        <param name="sku_size">45</param>
+      </offer>
+      
+    </offers>
+  </shop>
+</yml_catalog>
