@@ -41,7 +41,7 @@
         <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product1</url>
-        <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
+        <picture>images/product1.png</picture>
         <count>250</count>
         <delivery>true</delivery>
         
@@ -58,7 +58,7 @@
         <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product1#sku36</url>
-        <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
+        <picture>images/product1.png</picture>
         <count>40</count>
         <delivery>true</delivery>
         
@@ -75,7 +75,7 @@
         <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product1#sku37</url>
-        <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
+        <picture>images/product1.png</picture>
         <count>60</count>
         <delivery>true</delivery>
         
@@ -92,7 +92,7 @@
         <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product1#sku38</url>
-        <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
+        <picture>images/product1.png</picture>
         <count>40</count>
         <delivery>true</delivery>
 
@@ -109,7 +109,7 @@
         <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product1#sku39</url>
-        <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
+        <picture>images/product1.png</picture>
         <count>40</count>
         <delivery>true</delivery>
         
@@ -126,7 +126,7 @@
         <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product1#sku40</url>
-        <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
+        <picture>images/product1.png</picture>
         <count>20</count>
         <delivery>true</delivery>
         
@@ -143,7 +143,7 @@
         <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product1#sku41</url>
-        <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
+        <picture>images/product1.png</picture>
         <count>30</count>
         <delivery>true</delivery>
         
@@ -154,14 +154,14 @@
       </offer>
 
       <!-- SKU продукта 1: размер 42 -->
-      <offer id="sku1_white_39" group_id="product1" available="true">
+      <offer id="sku1_42" group_id="product1" available="true">
         <name>Nike Air Force 1 '07 White (42)</name>
         <price>19999</price>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product1#sku42</url>
-        <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
+        <picture>images/product1.png</picture>
         <count>10</count>
         <delivery>true</delivery>
         
@@ -173,6 +173,141 @@
 
 
 
+
+      <!-- ПРОДУКТ 2: Nike Air Force 1 '07 Pink (Женские)   -->
+      <offer id="product2" available="true">
+        <name>Nike Женские кроссовки Air Force 1 '07 Lace White</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product2</url>
+        <picture>images/product2.png</picture>
+        <delivery>true</delivery>
+        
+        <param name="product_collection">Air Force 1</param>
+        <param name="product_gender">Женские</param>
+        <param name="product_rating">4.8</param>
+      </offer>
+      
+      <!-- SKU продукта 2: размер 36 -->
+      <offer id="sku2_36" group_id="product2" available="true">
+        <name>Nike Air Force 1 '07 Lace White (36)</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product2#sku36</url>
+        <picture>images/product2.png</picture>
+        <count>8</count>
+        <delivery>true</delivery>
+        
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_size">36</param>
+      </offer>
+      
+      <!-- SKU продукта 2: размер 37 -->
+      <offer id="sku2_37" group_id="product2" available="true">
+        <name>Nike Air Force 1 '07 Lace White (37)</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product2#sku37</url>
+        <picture>images/product2.png</picture>
+        <count>10</count>
+        <delivery>true</delivery>
+        
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_size">37</param>
+      </offer>
+      
+      <!-- SKU продукта 2: размер 38 -->
+      <offer id="sku2_38" group_id="product2" available="true">
+        <name>Nike Air Force 1 '07 Lace White (38)</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product2#sku38</url>
+        <picture>images/product2.png</picture>
+        <count>12</count>
+        <delivery>true</delivery>
+        
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_size">38</param>
+      </offer>
+      
+      <!-- SKU продукта 2: размер 39 -->
+      <offer id="sku2_39" group_id="product2" available="true">
+        <name>Nike Air Force 1 '07 Lace White (39)</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product2#sku39</url>
+        <picture>images/product2.png</picture>
+        <count>6</count>
+        <delivery>true</delivery>
+        
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_size">39</param>
+      </offer>
+
+      <!-- SKU продукта 2: размер 40 -->
+      <offer id="sku2_40" group_id="product2" available="true">
+        <name>Nike Air Force 1 '07 Lace White (40)</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product2#sku40</url>
+        <picture>images/product2.png</picture>
+        <count>6</count>
+        <delivery>true</delivery>
+        
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_size">40</param>
+      </offer>
+
+      <!-- SKU продукта 2: размер 41 -->
+      <offer id="sku2_41" group_id="product2" available="true">
+        <name>Nike Air Force 1 '07 Lace White (41)</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product2#sku41</url>
+        <picture>images/product2.png</picture>
+        <count>6</count>
+        <delivery>true</delivery>
+        
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_size">41</param>
+      </offer>
+
+      <!-- SKU продукта 2: размер 42 -->
+      <offer id="sku2_42" group_id="product2" available="true">
+        <name>Nike Air Force 1 '07 Lace White (42)</name>
+        <price>19999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product2#sku42</url>
+        <picture>images/product2.png</picture>
+        <count>6</count>
+        <delivery>true</delivery>
+        
+        <param name="sku_collection">Air Force 1</param>
+        <param name="sku_gender">Женские</param>
+        <param name="sku_size">42</param>
+      </offer>
     </offers>
   </shop>
-</yml_catalog>
+</yml_catalog>  
