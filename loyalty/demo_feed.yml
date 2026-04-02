@@ -351,6 +351,8 @@
         <delivery>true</delivery>
       </offer>
 
+
+
       <!-- ПРОДУКТ 4: Nike P-6000 Burgundy Crush (Женские) -->
       <offer id="product4" available="true">
         <name>Nike Женские кроссовки P-6000 Burgundy Crush</name>
@@ -479,6 +481,8 @@
         <delivery>true</delivery>
       </offer>
 
+
+
       <!-- ПРОДУКТ 5: Nike P-6000 Platinum Tint (Женские) -->
 <offer id="product5" available="true">
   <name>Nike Женские кроссовки P-6000 Platinum Tint</name>
@@ -606,6 +610,8 @@
   <count>3</count>
   <delivery>true</delivery>
 </offer>
+
+
 
 <!-- ПРОДУКТ 6: Nike Ava Rover (Унисекс) -->
 <offer id="product6" available="false">
@@ -917,6 +923,7 @@
 </offer>
 
 
+
 <!-- ПРОДУКТ 8: Jordan Flight Court Lilac (Женские) -->
 <offer id="product8" available="true">
   <name>Jordan Женские кроссовки Flight Court Lilac</name>
@@ -1036,6 +1043,7 @@
   <count>6</count>
   <delivery>true</delivery>
 </offer>
+
 
 
 <!-- ПРОДУКТ 9: Nike Air Max Portal White/Pink (Женские) -->
@@ -1281,6 +1289,7 @@
 </offer>
 
 
+
 <!-- ПРОДУКТ 11: Nike Air Max Portal Sundial (Женские) -->
 <offer id="product11" available="false">
   <name>Nike Женские кроссовки Air Max Portal Sundial</name>
@@ -1400,6 +1409,7 @@
   <count>0</count>
   <delivery>true</delivery>
 </offer>
+
 
 
 <!-- ПРОДУКТ 12: Jordan Air Jordan 1 Low Baroque (Женские) -->
@@ -1644,6 +1654,7 @@
 </offer>
 
 
+
 <!-- ПРОДУКТ 14: Jordan Air Jordan 1 Low Beige (Женские) -->
 <offer id="product14" available="true">
   <name>Jordan Женские кроссовки Air Jordan 1 Low Beige</name>
@@ -1763,6 +1774,8 @@
   <count>12</count>
   <delivery>true</delivery>
 </offer>
+
+
 
 <!-- ПРОДУКТ 15: Nike Zoom Vomero 5 Gray (Женские) -->
 <offer id="product15" available="true">
@@ -1885,6 +1898,7 @@
 </offer>
 
 
+
 <!-- ПРОДУКТ 16: Nike Zoom Vomero 5 Pearl White/Particle Pink (Женские) -->
 <offer id="product16" available="true">
   <name>Nike Женские кроссовки Zoom Vomero 5 Pearl White/Particle Pink</name>
@@ -2004,6 +2018,7 @@
   <count>16</count>
   <delivery>true</delivery>
 </offer>
+
 
 
 <!-- ПРОДУКТ 17: Nike Zoom Vomero 5 Mint/White (Женские) -->
@@ -2248,6 +2263,8 @@
   <delivery>true</delivery>
 </offer>
 
+
+
 <!-- ПРОДУКТ 19: Jordan Air Jordan 1 Mid SE V2 (Женские) -->
 <offer id="product19" available="true">
   <name>Jordan Женские кроссовки Air Jordan 1 Mid SE V2</name>
@@ -2367,6 +2384,7 @@
   <count>11</count>
   <delivery>true</delivery>
 </offer>
+
 
 
 <!-- ПРОДУКТ 20: Nike Shox R4 Silver/White (Женские) -->
@@ -2489,6 +2507,8 @@
   <delivery>true</delivery>
 </offer>
 
+
+
 <!-- ПРОДУКТ 21: Nike Shox R4 White/Red (Женские) -->
 <offer id="product21" available="true">
   <name>Nike Женские кроссовки Shox R4 White/Red</name>
@@ -2608,6 +2628,7 @@
   <count>0</count>
   <delivery>true</delivery>
 </offer>
+
 
 
 <!-- ПРОДУКТ 22: New Balance Warped Runner Beige (Унисекс) -->
@@ -2984,6 +3005,8 @@
   <delivery>true</delivery>
 </offer>
 
+
+
 <!-- ПРОДУКТ 24: New Balance Warped Runner Gray (Унисекс) -->
 <offer id="product24" available="true">
   <name>New Balance Кроссовки Warped Runner Gray</name>
@@ -3291,6 +3314,8 @@
   <count>18</count>
   <delivery>true</delivery>
 </offer>
+
+
 
 <!-- ПРОДУКТ 26: New Balance 574 Beige (Женские) -->
 <offer id="product26" available="true">
@@ -3601,6 +3626,8 @@
   <count>31</count>
   <delivery>true</delivery>
 </offer>
+
+
 
 <!-- ПРОДУКТ 28: New Balance 9060 Black/Concord (Унисекс) -->
 <offer id="product28" available="true">
@@ -3977,6 +4004,8 @@
   <delivery>true</delivery>
 </offer>
 
+
+
 <!-- ПРОДУКТ 30: New Balance 9060 Gray/White/Beige (Унисекс) -->
 <offer id="product30" available="true">
   <name>New Balance Кроссовки 9060 Gray/White/Beige</name>
@@ -4166,6 +4195,4527 @@
 
 
 
+
+<!-- ПРОДУКТ 31: adidas adizero Evo SL (Женские) -->
+<offer id="product31" available="true">
+  <name>adidas Женские кроссовки adizero Evo SL</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product31</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product31.png</picture>
+  <count>208</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 31: размер 36 -->
+<offer id="sku31_36" group_id="product31" available="true">
+  <name>adidas Женские кроссовки adizero Evo SL (36)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product31#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product31.png</picture>
+  <count>30</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 31: размер 37 -->
+<offer id="sku31_37" group_id="product31" available="true">
+  <name>adidas Женские кроссовки adizero Evo SL (37)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product31#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product31.png</picture>
+  <count>30</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 31: размер 38 -->
+<offer id="sku31_38" group_id="product31" available="true">
+  <name>adidas Женские кроссовки adizero Evo SL (38)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product31#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product31.png</picture>
+  <count>30</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 31: размер 39 -->
+<offer id="sku31_39" group_id="product31" available="true">
+  <name>adidas Женские кроссовки adizero Evo SL (39)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product31#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product31.png</picture>
+  <count>30</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 31: размер 40 -->
+<offer id="sku31_40" group_id="product31" available="true">
+  <name>adidas Женские кроссовки adizero Evo SL (40)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product31#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product31.png</picture>
+  <count>30</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 31: размер 41 -->
+<offer id="sku31_41" group_id="product31" available="true">
+  <name>adidas Женские кроссовки adizero Evo SL (41)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product31#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product31.png</picture>
+  <count>29</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 31: размер 42 -->
+<offer id="sku31_42" group_id="product31" available="true">
+  <name>adidas Женские кроссовки adizero Evo SL (42)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product31#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product31.png</picture>
+  <count>29</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 32: adidas Samba OG Brown (Женские) -->
+<offer id="product32" available="true">
+  <name>adidas Женские кроссовки Samba OG Brown</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product32</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product32.png</picture>
+  <count>39</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 32: размер 36 (недоступен) -->
+<offer id="sku32_36" group_id="product32" available="false">
+  <name>adidas Женские кроссовки Samba OG Brown (36)</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product32#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product32.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 32: размер 37 (недоступен) -->
+<offer id="sku32_37" group_id="product32" available="false">
+  <name>adidas Женские кроссовки Samba OG Brown (37)</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product32#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product32.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 32: размер 38 (недоступен) -->
+<offer id="sku32_38" group_id="product32" available="false">
+  <name>adidas Женские кроссовки Samba OG Brown (38)</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product32#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product32.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 32: размер 39 (недоступен) -->
+<offer id="sku32_39" group_id="product32" available="false">
+  <name>adidas Женские кроссовки Samba OG Brown (39)</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product32#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product32.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 32: размер 40 -->
+<offer id="sku32_40" group_id="product32" available="true">
+  <name>adidas Женские кроссовки Samba OG Brown (40)</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product32#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product32.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 32: размер 41 -->
+<offer id="sku32_41" group_id="product32" available="true">
+  <name>adidas Женские кроссовки Samba OG Brown (41)</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product32#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product32.png</picture>
+  <count>13</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 32: размер 42 -->
+<offer id="sku32_42" group_id="product32" available="true">
+  <name>adidas Женские кроссовки Samba OG Brown (42)</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product32#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product32.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 33: adidas Samba OG Cream White (Женские) -->
+<offer id="product33" available="true">
+  <name>adidas Женские кроссовки Samba OG Cream White</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product33</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product33.png</picture>
+  <count>94</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 33: размер 36 -->
+<offer id="sku33_36" group_id="product33" available="true">
+  <name>adidas Женские кроссовки Samba OG Cream White (36)</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product33#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product33.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 33: размер 37 -->
+<offer id="sku33_37" group_id="product33" available="true">
+  <name>adidas Женские кроссовки Samba OG Cream White (37)</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product33#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product33.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 33: размер 38 -->
+<offer id="sku33_38" group_id="product33" available="true">
+  <name>adidas Женские кроссовки Samba OG Cream White (38)</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product33#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product33.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 33: размер 39 -->
+<offer id="sku33_39" group_id="product33" available="true">
+  <name>adidas Женские кроссовки Samba OG Cream White (39)</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product33#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product33.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 33: размер 40 -->
+<offer id="sku33_40" group_id="product33" available="true">
+  <name>adidas Женские кроссовки Samba OG Cream White (40)</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product33#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product33.png</picture>
+  <count>13</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 33: размер 41 -->
+<offer id="sku33_41" group_id="product33" available="true">
+  <name>adidas Женские кроссовки Samba OG Cream White (41)</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product33#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product33.png</picture>
+  <count>13</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 33: размер 42 -->
+<offer id="sku33_42" group_id="product33" available="true">
+  <name>adidas Женские кроссовки Samba OG Cream White (42)</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product33#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product33.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 34: adidas Samba OG White/Blue (Женские) -->
+<offer id="product34" available="true">
+  <name>adidas Женские кроссовки Samba OG White/Blue</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product34</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product34.png</picture>
+  <count>69</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 34: размер 36 -->
+<offer id="sku34_36" group_id="product34" available="true">
+  <name>adidas Женские кроссовки Samba OG White/Blue (36)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product34#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product34.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 34: размер 37 -->
+<offer id="sku34_37" group_id="product34" available="true">
+  <name>adidas Женские кроссовки Samba OG White/Blue (37)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product34#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product34.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 34: размер 38 -->
+<offer id="sku34_38" group_id="product34" available="true">
+  <name>adidas Женские кроссовки Samba OG White/Blue (38)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product34#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product34.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 34: размер 39 -->
+<offer id="sku34_39" group_id="product34" available="true">
+  <name>adidas Женские кроссовки Samba OG White/Blue (39)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product34#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product34.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 34: размер 40 -->
+<offer id="sku34_40" group_id="product34" available="true">
+  <name>adidas Женские кроссовки Samba OG White/Blue (40)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product34#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product34.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 34: размер 41 -->
+<offer id="sku34_41" group_id="product34" available="true">
+  <name>adidas Женские кроссовки Samba OG White/Blue (41)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product34#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product34.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 34: размер 42 -->
+<offer id="sku34_42" group_id="product34" available="true">
+  <name>adidas Женские кроссовки Samba OG White/Blue (42)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product34#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product34.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 35: adidas Samba OG Warm Clay (Женские - НЕДОСТУПЕН) -->
+<offer id="product35" available="false">
+  <name>adidas Женские кроссовки Samba OG Warm Clay</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product35</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product35.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 35: размер 36 (недоступен) -->
+<offer id="sku35_36" group_id="product35" available="false">
+  <name>adidas Женские кроссовки Samba OG Warm Clay (36)</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product35#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product35.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 35: размер 37 (недоступен) -->
+<offer id="sku35_37" group_id="product35" available="false">
+  <name>adidas Женские кроссовки Samba OG Warm Clay (37)</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product35#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product35.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 35: размер 38 (недоступен) -->
+<offer id="sku35_38" group_id="product35" available="false">
+  <name>adidas Женские кроссовки Samba OG Warm Clay (38)</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product35#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product35.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 35: размер 39 (недоступен) -->
+<offer id="sku35_39" group_id="product35" available="false">
+  <name>adidas Женские кроссовки Samba OG Warm Clay (39)</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product35#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product35.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 35: размер 40 (недоступен) -->
+<offer id="sku35_40" group_id="product35" available="false">
+  <name>adidas Женские кроссовки Samba OG Warm Clay (40)</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product35#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product35.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 35: размер 41 (недоступен) -->
+<offer id="sku35_41" group_id="product35" available="false">
+  <name>adidas Женские кроссовки Samba OG Warm Clay (41)</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product35#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product35.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 35: размер 42 (недоступен) -->
+<offer id="sku35_42" group_id="product35" available="false">
+  <name>adidas Женские кроссовки Samba OG Warm Clay (42)</name>
+  <price>15599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product35#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product35.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 36: adidas Japan Brown (Женские) -->
+<offer id="product36" available="true">
+  <name>adidas Женские кроссовки Japan Brown</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product36.png</picture>
+  <count>30</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 36: размер 36 -->
+<offer id="sku36_36" group_id="product36" available="true">
+  <name>adidas Женские кроссовки Japan Brown (36)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product36#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product36.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 36: размер 37 (недоступен) -->
+<offer id="sku36_37" group_id="product36" available="false">
+  <name>adidas Женские кроссовки Japan Brown (37)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product36#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product36.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 36: размер 38 (недоступен) -->
+<offer id="sku36_38" group_id="product36" available="false">
+  <name>adidas Женские кроссовки Japan Brown (38)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product36#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product36.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 36: размер 39 -->
+<offer id="sku36_39" group_id="product36" available="true">
+  <name>adidas Женские кроссовки Japan Brown (39)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product36#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product36.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 36: размер 40 (недоступен) -->
+<offer id="sku36_40" group_id="product36" available="false">
+  <name>adidas Женские кроссовки Japan Brown (40)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product36#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product36.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 36: размер 41 -->
+<offer id="sku36_41" group_id="product36" available="true">
+  <name>adidas Женские кроссовки Japan Brown (41)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product36#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product36.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 36: размер 42 -->
+<offer id="sku36_42" group_id="product36" available="true">
+  <name>adidas Женские кроссовки Japan Brown (42)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product36#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product36.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+
+<!-- ПРОДУКТ 37: adidas Japan Black (Женские) -->
+<offer id="product37" available="true">
+  <name>adidas Женские кроссовки Japan Black</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product37.png</picture>
+  <count>39</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 37: размер 36 -->
+<offer id="sku37_36" group_id="product37" available="true">
+  <name>adidas Женские кроссовки Japan Black (36)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product37#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product37.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 37: размер 37 -->
+<offer id="sku37_37" group_id="product37" available="true">
+  <name>adidas Женские кроссовки Japan Black (37)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product37#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product37.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 37: размер 38 -->
+<offer id="sku37_38" group_id="product37" available="true">
+  <name>adidas Женские кроссовки Japan Black (38)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product37#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product37.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 37: размер 39 -->
+<offer id="sku37_39" group_id="product37" available="true">
+  <name>adidas Женские кроссовки Japan Black (39)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product37#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product37.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 37: размер 40 -->
+<offer id="sku37_40" group_id="product37" available="true">
+  <name>adidas Женские кроссовки Japan Black (40)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product37#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product37.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 37: размер 41 -->
+<offer id="sku37_41" group_id="product37" available="true">
+  <name>adidas Женские кроссовки Japan Black (41)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product37#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product37.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 37: размер 42 -->
+<offer id="sku37_42" group_id="product37" available="true">
+  <name>adidas Женские кроссовки Japan Black (42)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product37#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product37.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+
+<!-- ПРОДУКТ 38: adidas Japan White (Женские) -->
+<offer id="product38" available="true">
+  <name>adidas Женские кроссовки Japan White</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product38.png</picture>
+  <count>39</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 38: размер 36 -->
+<offer id="sku38_36" group_id="product38" available="true">
+  <name>adidas Женские кроссовки Japan White (36)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product38#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product38.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 38: размер 37 -->
+<offer id="sku38_37" group_id="product38" available="true">
+  <name>adidas Женские кроссовки Japan White (37)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product38#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product38.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 38: размер 38 -->
+<offer id="sku38_38" group_id="product38" available="true">
+  <name>adidas Женские кроссовки Japan White (38)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product38#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product38.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 38: размер 39 -->
+<offer id="sku38_39" group_id="product38" available="true">
+  <name>adidas Женские кроссовки Japan White (39)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product38#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product38.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 38: размер 40 -->
+<offer id="sku38_40" group_id="product38" available="true">
+  <name>adidas Женские кроссовки Japan White (40)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product38#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product38.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 38: размер 41 -->
+<offer id="sku38_41" group_id="product38" available="true">
+  <name>adidas Женские кроссовки Japan White (41)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product38#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product38.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 38: размер 42 -->
+<offer id="sku38_42" group_id="product38" available="true">
+  <name>adidas Женские кроссовки Japan White (42)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product38#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product38.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 39: adidas Superstar II Beige (Женские) -->
+<offer id="product39" available="true">
+  <name>adidas Женские кроссовки Superstar II Beige</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product39.png</picture>
+  <count>131</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 39: размер 36 -->
+<offer id="sku39_36" group_id="product39" available="true">
+  <name>adidas Женские кроссовки Superstar II Beige (36)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product39#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product39.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 39: размер 37 -->
+<offer id="sku39_37" group_id="product39" available="true">
+  <name>adidas Женские кроссовки Superstar II Beige (37)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product39#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product39.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 39: размер 38 -->
+<offer id="sku39_38" group_id="product39" available="true">
+  <name>adidas Женские кроссовки Superstar II Beige (38)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product39#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product39.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 39: размер 39 -->
+<offer id="sku39_39" group_id="product39" available="true">
+  <name>adidas Женские кроссовки Superstar II Beige (39)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product39#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product39.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 39: размер 40 -->
+<offer id="sku39_40" group_id="product39" available="true">
+  <name>adidas Женские кроссовки Superstar II Beige (40)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product39#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product39.png</picture>
+  <count>18</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 39: размер 41 -->
+<offer id="sku39_41" group_id="product39" available="true">
+  <name>adidas Женские кроссовки Superstar II Beige (41)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product39#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product39.png</picture>
+  <count>18</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 39: размер 42 -->
+<offer id="sku39_42" group_id="product39" available="true">
+  <name>adidas Женские кроссовки Superstar II Beige (42)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product39#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product39.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 40: adidas Superstar II Black/White (Женские) -->
+<offer id="product40" available="true">
+  <name>adidas Женские кроссовки Superstar II Black/White</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product40.png</picture>
+  <count>145</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 40: размер 36 -->
+<offer id="sku40_36" group_id="product40" available="true">
+  <name>adidas Женские кроссовки Superstar II Black/White (36)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product40#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product40.png</picture>
+  <count>21</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 40: размер 37 -->
+<offer id="sku40_37" group_id="product40" available="true">
+  <name>adidas Женские кроссовки Superstar II Black/White (37)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product40#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product40.png</picture>
+  <count>21</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 40: размер 38 -->
+<offer id="sku40_38" group_id="product40" available="true">
+  <name>adidas Женские кроссовки Superstar II Black/White (38)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product40#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product40.png</picture>
+  <count>21</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 40: размер 39 -->
+<offer id="sku40_39" group_id="product40" available="true">
+  <name>adidas Женские кроссовки Superstar II Black/White (39)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product40#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product40.png</picture>
+  <count>21</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 40: размер 40 -->
+<offer id="sku40_40" group_id="product40" available="true">
+  <name>adidas Женские кроссовки Superstar II Black/White (40)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product40#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product40.png</picture>
+  <count>20</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 40: размер 41 -->
+<offer id="sku40_41" group_id="product40" available="true">
+  <name>adidas Женские кроссовки Superstar II Black/White (41)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product40#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product40.png</picture>
+  <count>20</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 40: размер 42 -->
+<offer id="sku40_42" group_id="product40" available="true">
+  <name>adidas Женские кроссовки Superstar II Black/White (42)</name>
+  <price>14999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product40#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product40.png</picture>
+  <count>21</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 41: adidas Superstar ST Beige (Женские) -->
+<offer id="product41" available="true">
+  <name>adidas Женские кроссовки Superstar ST Beige</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product41.png</picture>
+  <count>147</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 41: размер 36 -->
+<offer id="sku41_36" group_id="product41" available="true">
+  <name>adidas Женские кроссовки Superstar ST Beige (36)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product41#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product41.png</picture>
+  <count>21</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 41: размер 37 -->
+<offer id="sku41_37" group_id="product41" available="true">
+  <name>adidas Женские кроссовки Superstar ST Beige (37)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product41#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product41.png</picture>
+  <count>21</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 41: размер 38 -->
+<offer id="sku41_38" group_id="product41" available="true">
+  <name>adidas Женские кроссовки Superstar ST Beige (38)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product41#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product41.png</picture>
+  <count>21</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 41: размер 39 -->
+<offer id="sku41_39" group_id="product41" available="true">
+  <name>adidas Женские кроссовки Superstar ST Beige (39)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product41#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product41.png</picture>
+  <count>21</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 41: размер 40 -->
+<offer id="sku41_40" group_id="product41" available="true">
+  <name>adidas Женские кроссовки Superstar ST Beige (40)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product41#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product41.png</picture>
+  <count>21</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 41: размер 41 -->
+<offer id="sku41_41" group_id="product41" available="true">
+  <name>adidas Женские кроссовки Superstar ST Beige (41)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product41#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product41.png</picture>
+  <count>21</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 41: размер 42 -->
+<offer id="sku41_42" group_id="product41" available="true">
+  <name>adidas Женские кроссовки Superstar ST Beige (42)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product41#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product41.png</picture>
+  <count>21</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 42: adidas Muenchen Gray/White (Женские) -->
+<offer id="product42" available="true">
+  <name>adidas Женские кроссовки Muenchen Gray/White</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product42.png</picture>
+  <count>24</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 42: размер 36 -->
+<offer id="sku42_36" group_id="product42" available="true">
+  <name>adidas Женские кроссовки Muenchen Gray/White (36)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product42#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product42.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 42: размер 37 -->
+<offer id="sku42_37" group_id="product42" available="true">
+  <name>adidas Женские кроссовки Muenchen Gray/White (37)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product42#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product42.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 42: размер 38 (недоступен) -->
+<offer id="sku42_38" group_id="product42" available="false">
+  <name>adidas Женские кроссовки Muenchen Gray/White (38)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product42#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product42.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 42: размер 39 (недоступен) -->
+<offer id="sku42_39" group_id="product42" available="false">
+  <name>adidas Женские кроссовки Muenchen Gray/White (39)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product42#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product42.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 42: размер 40 (недоступен) -->
+<offer id="sku42_40" group_id="product42" available="false">
+  <name>adidas Женские кроссовки Muenchen Gray/White (40)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product42#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product42.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 42: размер 41 (недоступен) -->
+<offer id="sku42_41" group_id="product42" available="false">
+  <name>adidas Женские кроссовки Muenchen Gray/White (41)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product42#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product42.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 42: размер 42 -->
+<offer id="sku42_42" group_id="product42" available="true">
+  <name>adidas Женские кроссовки Muenchen Gray/White (42)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product42#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product42.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 43: adidas Muenchen Gray/Pink (Женские - НЕДОСТУПЕН) -->
+<offer id="product43" available="false">
+  <name>adidas Женские кроссовки Muenchen Gray/Pink</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product43.png</picture>
+  <count>20</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 43: размер 36 (недоступен) -->
+<offer id="sku43_36" group_id="product43" available="false">
+  <name>adidas Женские кроссовки Muenchen Gray/Pink (36)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product43#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product43.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 43: размер 37 (недоступен) -->
+<offer id="sku43_37" group_id="product43" available="false">
+  <name>adidas Женские кроссовки Muenchen Gray/Pink (37)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product43#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product43.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 43: размер 38 (недоступен) -->
+<offer id="sku43_38" group_id="product43" available="false">
+  <name>adidas Женские кроссовки Muenchen Gray/Pink (38)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product43#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product43.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 43: размер 39 (недоступен) -->
+<offer id="sku43_39" group_id="product43" available="false">
+  <name>adidas Женские кроссовки Muenchen Gray/Pink (39)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product43#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product43.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 43: размер 40 (недоступен) -->
+<offer id="sku43_40" group_id="product43" available="false">
+  <name>adidas Женские кроссовки Muenchen Gray/Pink (40)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product43#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product43.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 43: размер 41 (недоступен) -->
+<offer id="sku43_41" group_id="product43" available="false">
+  <name>adidas Женские кроссовки Muenchen Gray/Pink (41)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product43#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product43.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 43: размер 42 (недоступен) -->
+<offer id="sku43_42" group_id="product43" available="false">
+  <name>adidas Женские кроссовки Muenchen Gray/Pink (42)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product43#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product43.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 44: adidas Handball Spezial Beige/Pink (Женские) -->
+<offer id="product44" available="true">
+  <name>adidas Женские кроссовки Handball Spezial Beige/Pink</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product44.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 44: размер 36 -->
+<offer id="sku44_36" group_id="product44" available="true">
+  <name>adidas Женские кроссовки Handball Spezial Beige/Pink (36)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product44#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product44.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 44: размер 37 (недоступен) -->
+<offer id="sku44_37" group_id="product44" available="false">
+  <name>adidas Женские кроссовки Handball Spezial Beige/Pink (37)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product44#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product44.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 44: размер 38 (недоступен) -->
+<offer id="sku44_38" group_id="product44" available="false">
+  <name>adidas Женские кроссовки Handball Spezial Beige/Pink (38)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product44#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product44.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 44: размер 39 (недоступен) -->
+<offer id="sku44_39" group_id="product44" available="false">
+  <name>adidas Женские кроссовки Handball Spezial Beige/Pink (39)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product44#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product44.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 44: размер 40 (недоступен) -->
+<offer id="sku44_40" group_id="product44" available="false">
+  <name>adidas Женские кроссовки Handball Spezial Beige/Pink (40)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product44#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product44.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 44: размер 41 (недоступен) -->
+<offer id="sku44_41" group_id="product44" available="false">
+  <name>adidas Женские кроссовки Handball Spezial Beige/Pink (41)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product44#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product44.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 44: размер 42 (недоступен) -->
+<offer id="sku44_42" group_id="product44" available="false">
+  <name>adidas Женские кроссовки Handball Spezial Beige/Pink (42)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product44#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product44.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 45: adidas Handball Spezial Brown (Женские) -->
+<offer id="product45" available="true">
+  <name>adidas Женские кроссовки Handball Spezial Brown</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product45.png</picture>
+  <count>44</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 45: размер 36 -->
+<offer id="sku45_36" group_id="product45" available="true">
+  <name>adidas Женские кроссовки Handball Spezial Brown (36)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product45#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product45.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 45: размер 37 (недоступен) -->
+<offer id="sku45_37" group_id="product45" available="false">
+  <name>adidas Женские кроссовки Handball Spezial Brown (37)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product45#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product45.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 45: размер 38 (недоступен) -->
+<offer id="sku45_38" group_id="product45" available="false">
+  <name>adidas Женские кроссовки Handball Spezial Brown (38)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product45#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product45.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 45: размер 39 (недоступен) -->
+<offer id="sku45_39" group_id="product45" available="false">
+  <name>adidas Женские кроссовки Handball Spezial Brown (39)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product45#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product45.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 45: размер 40 -->
+<offer id="sku45_40" group_id="product45" available="true">
+  <name>adidas Женские кроссовки Handball Spezial Brown (40)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product45#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product45.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 45: размер 41 -->
+<offer id="sku45_41" group_id="product45" available="true">
+  <name>adidas Женские кроссовки Handball Spezial Brown (41)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product45#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product45.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 45: размер 42 -->
+<offer id="sku45_42" group_id="product45" available="true">
+  <name>adidas Женские кроссовки Handball Spezial Brown (42)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product45#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product45.png</picture>
+  <count>18</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 46: adidas Handball Spezial Black/White (Женские) -->
+<offer id="product46" available="true">
+  <name>adidas Женские кроссовки Handball Spezial Black/White</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product46</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product46.png</picture>
+  <count>80</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 46: размер 36 -->
+<offer id="sku46_36" group_id="product46" available="true">
+  <name>adidas Женские кроссовки Handball Spezial Black/White (36)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product46#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product46.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 46: размер 37 -->
+<offer id="sku46_37" group_id="product46" available="true">
+  <name>adidas Женские кроссовки Handball Spezial Black/White (37)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product46#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product46.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 46: размер 38 -->
+<offer id="sku46_38" group_id="product46" available="true">
+  <name>adidas Женские кроссовки Handball Spezial Black/White (38)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product46#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product46.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 46: размер 39 -->
+<offer id="sku46_39" group_id="product46" available="true">
+  <name>adidas Женские кроссовки Handball Spezial Black/White (39)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product46#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product46.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 46: размер 40 -->
+<offer id="sku46_40" group_id="product46" available="true">
+  <name>adidas Женские кроссовки Handball Spezial Black/White (40)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product46#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product46.png</picture>
+  <count>11</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 46: размер 41 -->
+<offer id="sku46_41" group_id="product46" available="true">
+  <name>adidas Женские кроссовки Handball Spezial Black/White (41)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product46#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product46.png</picture>
+  <count>11</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 46: размер 42 -->
+<offer id="sku46_42" group_id="product46" available="true">
+  <name>adidas Женские кроссовки Handball Spezial Black/White (42)</name>
+  <price>15999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>11</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product46#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product46.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+
+<!-- ПРОДУКТ 47: Nike Air Force 1 '07 White (Мужские) -->
+<offer id="product47" available="true">
+  <name>Nike Мужские кроссовки Air Force 1 '07 White</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product47</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product47.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 47: размер 39 -->
+<offer id="sku47_39" group_id="product47" available="true">
+  <name>Nike Мужские кроссовки Air Force 1 '07 White (39)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product47#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product47.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 47: размер 40 (недоступен) -->
+<offer id="sku47_40" group_id="product47" available="false">
+  <name>Nike Мужские кроссовки Air Force 1 '07 White (40)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product47#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product47.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 47: размер 41 (недоступен) -->
+<offer id="sku47_41" group_id="product47" available="false">
+  <name>Nike Мужские кроссовки Air Force 1 '07 White (41)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product47#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product47.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 47: размер 42 (недоступен) -->
+<offer id="sku47_42" group_id="product47" available="false">
+  <name>Nike Мужские кроссовки Air Force 1 '07 White (42)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product47#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product47.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 47: размер 43 (недоступен) -->
+<offer id="sku47_43" group_id="product47" available="false">
+  <name>Nike Мужские кроссовки Air Force 1 '07 White (43)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product47#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product47.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 47: размер 44 (недоступен) -->
+<offer id="sku47_44" group_id="product47" available="false">
+  <name>Nike Мужские кроссовки Air Force 1 '07 White (44)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product47#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product47.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 47: размер 45 (недоступен) -->
+<offer id="sku47_45" group_id="product47" available="false">
+  <name>Nike Мужские кроссовки Air Force 1 '07 White (45)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product47#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product47.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 48: Nike Air Force 1 '07 Black (Мужские - НЕДОСТУПЕН) -->
+<offer id="product48" available="false">
+  <name>Nike Мужские кроссовки Air Force 1 '07 Black</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product48</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product48.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 48: размер 39 (недоступен) -->
+<offer id="sku48_39" group_id="product48" available="false">
+  <name>Nike Мужские кроссовки Air Force 1 '07 Black (39)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product48#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product48.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 48: размер 40 (недоступен) -->
+<offer id="sku48_40" group_id="product48" available="false">
+  <name>Nike Мужские кроссовки Air Force 1 '07 Black (40)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product48#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product48.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 48: размер 41 (недоступен) -->
+<offer id="sku48_41" group_id="product48" available="false">
+  <name>Nike Мужские кроссовки Air Force 1 '07 Black (41)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product48#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product48.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 48: размер 42 (недоступен) -->
+<offer id="sku48_42" group_id="product48" available="false">
+  <name>Nike Мужские кроссовки Air Force 1 '07 Black (42)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product48#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product48.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 48: размер 43 (недоступен) -->
+<offer id="sku48_43" group_id="product48" available="false">
+  <name>Nike Мужские кроссовки Air Force 1 '07 Black (43)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product48#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product48.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 48: размер 44 (недоступен) -->
+<offer id="sku48_44" group_id="product48" available="false">
+  <name>Nike Мужские кроссовки Air Force 1 '07 Black (44)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product48#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product48.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 48: размер 45 (недоступен) -->
+<offer id="sku48_45" group_id="product48" available="false">
+  <name>Nike Мужские кроссовки Air Force 1 '07 Black (45)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product48#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product48.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+
+<!-- ПРОДУКТ 49: Nike Air Max 90 Black (Мужские) -->
+<offer id="product49" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 Black</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product49</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product49.png</picture>
+  <count>208</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 49: размер 39 -->
+<offer id="sku49_39" group_id="product49" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 Black (39)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product49#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product49.png</picture>
+  <count>30</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 49: размер 40 -->
+<offer id="sku49_40" group_id="product49" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 Black (40)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product49#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product49.png</picture>
+  <count>30</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 49: размер 41 -->
+<offer id="sku49_41" group_id="product49" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 Black (41)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product49#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product49.png</picture>
+  <count>30</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 49: размер 42 -->
+<offer id="sku49_42" group_id="product49" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 Black (42)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product49#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product49.png</picture>
+  <count>30</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 49: размер 43 -->
+<offer id="sku49_43" group_id="product49" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 Black (43)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product49#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product49.png</picture>
+  <count>29</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 49: размер 44 -->
+<offer id="sku49_44" group_id="product49" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 Black (44)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product49#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product49.png</picture>
+  <count>29</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 49: размер 45 -->
+<offer id="sku49_45" group_id="product49" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 Black (45)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product49#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product49.png</picture>
+  <count>30</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 50: Nike Air Max 90 White (Мужские) -->
+<offer id="product50" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 White</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product50</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product50.png</picture>
+  <count>100</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 50: размер 39 -->
+<offer id="sku50_39" group_id="product50" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 White (39)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product50#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product50.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 50: размер 40 -->
+<offer id="sku50_40" group_id="product50" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 White (40)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product50#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product50.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 50: размер 41 -->
+<offer id="sku50_41" group_id="product50" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 White (41)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product50#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product50.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 50: размер 42 -->
+<offer id="sku50_42" group_id="product50" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 White (42)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product50#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product50.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 50: размер 43 -->
+<offer id="sku50_43" group_id="product50" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 White (43)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product50#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product50.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 50: размер 44 -->
+<offer id="sku50_44" group_id="product50" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 White (44)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product50#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product50.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 50: размер 45 -->
+<offer id="sku50_45" group_id="product50" available="true">
+  <name>Nike Мужские кроссовки Air Max 90 White (45)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product50#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product50.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+
+<!-- ПРОДУКТ 51: Nike P-6000 White (Мужские) -->
+<offer id="product51" available="true">
+  <name>Nike Мужские кроссовки P-6000 White</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product51</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product51.png</picture>
+  <count>100</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 51: размер 39 -->
+<offer id="sku51_39" group_id="product51" available="true">
+  <name>Nike Мужские кроссовки P-6000 White (39)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product51#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product51.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 51: размер 40 -->
+<offer id="sku51_40" group_id="product51" available="true">
+  <name>Nike Мужские кроссовки P-6000 White (40)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product51#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product51.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 51: размер 41 -->
+<offer id="sku51_41" group_id="product51" available="true">
+  <name>Nike Мужские кроссовки P-6000 White (41)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product51#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product51.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 51: размер 42 -->
+<offer id="sku51_42" group_id="product51" available="true">
+  <name>Nike Мужские кроссовки P-6000 White (42)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product51#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product51.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 51: размер 43 -->
+<offer id="sku51_43" group_id="product51" available="true">
+  <name>Nike Мужские кроссовки P-6000 White (43)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product51#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product51.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 51: размер 44 -->
+<offer id="sku51_44" group_id="product51" available="true">
+  <name>Nike Мужские кроссовки P-6000 White (44)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product51#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product51.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 51: размер 45 -->
+<offer id="sku51_45" group_id="product51" available="true">
+  <name>Nike Мужские кроссовки P-6000 White (45)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product51#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product51.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 52: Nike P-6000 Black (Мужские) -->
+<offer id="product52" available="true">
+  <name>Nike Мужские кроссовки P-6000 Black</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product52</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product52.png</picture>
+  <count>125</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 52: размер 39 -->
+<offer id="sku52_39" group_id="product52" available="true">
+  <name>Nike Мужские кроссовки P-6000 Black (39)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product52#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product52.png</picture>
+  <count>18</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 52: размер 40 -->
+<offer id="sku52_40" group_id="product52" available="true">
+  <name>Nike Мужские кроссовки P-6000 Black (40)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product52#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product52.png</picture>
+  <count>18</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 52: размер 41 -->
+<offer id="sku52_41" group_id="product52" available="true">
+  <name>Nike Мужские кроссовки P-6000 Black (41)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product52#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product52.png</picture>
+  <count>18</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 52: размер 42 -->
+<offer id="sku52_42" group_id="product52" available="true">
+  <name>Nike Мужские кроссовки P-6000 Black (42)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product52#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product52.png</picture>
+  <count>18</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 52: размер 43 -->
+<offer id="sku52_43" group_id="product52" available="true">
+  <name>Nike Мужские кроссовки P-6000 Black (43)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product52#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product52.png</picture>
+  <count>17</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 52: размер 44 -->
+<offer id="sku52_44" group_id="product52" available="true">
+  <name>Nike Мужские кроссовки P-6000 Black (44)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product52#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product52.png</picture>
+  <count>18</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 52: размер 45 -->
+<offer id="sku52_45" group_id="product52" available="true">
+  <name>Nike Мужские кроссовки P-6000 Black (45)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product52#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product52.png</picture>
+  <count>18</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+
+<!-- ПРОДУКТ 53: Jordan Air Jordan 1 Mid Black/White (Мужские) -->
+<offer id="product53" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid Black/White</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product53</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product53.png</picture>
+  <count>238</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 53: размер 39 -->
+<offer id="sku53_39" group_id="product53" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid Black/White (39)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product53#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product53.png</picture>
+  <count>34</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 53: размер 40 -->
+<offer id="sku53_40" group_id="product53" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid Black/White (40)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product53#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product53.png</picture>
+  <count>34</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 53: размер 41 -->
+<offer id="sku53_41" group_id="product53" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid Black/White (41)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product53#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product53.png</picture>
+  <count>34</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 53: размер 42 -->
+<offer id="sku53_42" group_id="product53" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid Black/White (42)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product53#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product53.png</picture>
+  <count>34</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 53: размер 43 -->
+<offer id="sku53_43" group_id="product53" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid Black/White (43)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product53#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product53.png</picture>
+  <count>34</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 53: размер 44 -->
+<offer id="sku53_44" group_id="product53" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid Black/White (44)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product53#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product53.png</picture>
+  <count>34</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 53: размер 45 -->
+<offer id="sku53_45" group_id="product53" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid Black/White (45)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product53#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product53.png</picture>
+  <count>34</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 54: Nike Zoom Vomero 5 Met Pewter/Parachute Beige (Мужские) -->
+<offer id="product54" available="true">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product54</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product54.png</picture>
+  <count>29</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 54: размер 39 (недоступен) -->
+<offer id="sku54_39" group_id="product54" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige (39)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product54#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product54.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 54: размер 40 (недоступен) -->
+<offer id="sku54_40" group_id="product54" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige (40)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product54#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product54.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 54: размер 41 (недоступен) -->
+<offer id="sku54_41" group_id="product54" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige (41)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product54#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product54.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 54: размер 42 (недоступен) -->
+<offer id="sku54_42" group_id="product54" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige (42)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product54#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product54.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 54: размер 43 -->
+<offer id="sku54_43" group_id="product54" available="true">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige (43)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product54#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product54.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 54: размер 44 -->
+<offer id="sku54_44" group_id="product54" available="true">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige (44)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product54#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product54.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 54: размер 45 (недоступен) -->
+<offer id="sku54_45" group_id="product54" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige (45)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product54#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product54.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 55: Nike Zoom Vomero 5 Met Pewter/Parachute Beige Gray (Мужские) -->
+<offer id="product55" available="true">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige Gray</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product55</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product55.png</picture>
+  <count>30</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 55: размер 39 (недоступен) -->
+<offer id="sku55_39" group_id="product55" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige Gray (39)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product55#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product55.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 55: размер 40 (недоступен) -->
+<offer id="sku55_40" group_id="product55" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige Gray (40)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product55#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product55.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 55: размер 41 (недоступен) -->
+<offer id="sku55_41" group_id="product55" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige Gray (41)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product55#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product55.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 55: размер 42 -->
+<offer id="sku55_42" group_id="product55" available="true">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige Gray (42)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product55#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product55.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 55: размер 43 -->
+<offer id="sku55_43" group_id="product55" available="true">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige Gray (43)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product55#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product55.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 55: размер 44 (недоступен) -->
+<offer id="sku55_44" group_id="product55" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige Gray (44)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product55#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product55.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 55: размер 45 (недоступен) -->
+<offer id="sku55_45" group_id="product55" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 Met Pewter/Parachute Beige Gray (45)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product55#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product55.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 56: Nike Zoom Vomero 5 SDE Green (Мужские) -->
+<offer id="product56" available="true">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 SDE Green</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product56</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product56.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 56: размер 39 -->
+<offer id="sku56_39" group_id="product56" available="true">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 SDE Green (39)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product56#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product56.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 56: размер 40 (недоступен) -->
+<offer id="sku56_40" group_id="product56" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 SDE Green (40)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product56#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product56.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 56: размер 41 (недоступен) -->
+<offer id="sku56_41" group_id="product56" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 SDE Green (41)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product56#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product56.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 56: размер 42 (недоступен) -->
+<offer id="sku56_42" group_id="product56" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 SDE Green (42)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product56#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product56.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 56: размер 43 (недоступен) -->
+<offer id="sku56_43" group_id="product56" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 SDE Green (43)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product56#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product56.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 56: размер 44 (недоступен) -->
+<offer id="sku56_44" group_id="product56" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 SDE Green (44)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product56#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product56.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 56: размер 45 (недоступен) -->
+<offer id="sku56_45" group_id="product56" available="false">
+  <name>Nike Мужские кроссовки Zoom Vomero 5 SDE Green (45)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product56#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product56.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 57: Jordan Flight Court Black (Мужские) -->
+<offer id="product57" available="true">
+  <name>Jordan Мужские кроссовки Flight Court Black</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product57</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product57.png</picture>
+  <count>75</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 57: размер 39 (недоступен) -->
+<offer id="sku57_39" group_id="product57" available="false">
+  <name>Jordan Мужские кроссовки Flight Court Black (39)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product57#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product57.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 57: размер 40 -->
+<offer id="sku57_40" group_id="product57" available="true">
+  <name>Jordan Мужские кроссовки Flight Court Black (40)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product57#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product57.png</picture>
+  <count>13</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 57: размер 41 -->
+<offer id="sku57_41" group_id="product57" available="true">
+  <name>Jordan Мужские кроссовки Flight Court Black (41)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product57#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product57.png</picture>
+  <count>13</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 57: размер 42 -->
+<offer id="sku57_42" group_id="product57" available="true">
+  <name>Jordan Мужские кроссовки Flight Court Black (42)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product57#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product57.png</picture>
+  <count>13</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 57: размер 43 -->
+<offer id="sku57_43" group_id="product57" available="true">
+  <name>Jordan Мужские кроссовки Flight Court Black (43)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product57#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product57.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 57: размер 44 -->
+<offer id="sku57_44" group_id="product57" available="true">
+  <name>Jordan Мужские кроссовки Flight Court Black (44)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product57#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product57.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 57: размер 45 -->
+<offer id="sku57_45" group_id="product57" available="true">
+  <name>Jordan Мужские кроссовки Flight Court Black (45)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product57#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product57.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 58: Jordan Flight Court White (Мужские) -->
+<offer id="product58" available="true">
+  <name>Jordan Мужские кроссовки Flight Court White</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product58</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product58.png</picture>
+  <count>105</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 58: размер 39 -->
+<offer id="sku58_39" group_id="product58" available="true">
+  <name>Jordan Мужские кроссовки Flight Court White (39)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product58#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product58.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 58: размер 40 -->
+<offer id="sku58_40" group_id="product58" available="true">
+  <name>Jordan Мужские кроссовки Flight Court White (40)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product58#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product58.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 58: размер 41 -->
+<offer id="sku58_41" group_id="product58" available="true">
+  <name>Jordan Мужские кроссовки Flight Court White (41)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product58#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product58.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 58: размер 42 -->
+<offer id="sku58_42" group_id="product58" available="true">
+  <name>Jordan Мужские кроссовки Flight Court White (42)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product58#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product58.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 58: размер 43 -->
+<offer id="sku58_43" group_id="product58" available="true">
+  <name>Jordan Мужские кроссовки Flight Court White (43)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product58#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product58.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 58: размер 44 -->
+<offer id="sku58_44" group_id="product58" available="true">
+  <name>Jordan Мужские кроссовки Flight Court White (44)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product58#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product58.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 58: размер 45 -->
+<offer id="sku58_45" group_id="product58" available="true">
+  <name>Jordan Мужские кроссовки Flight Court White (45)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product58#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product58.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+
+<!-- ПРОДУКТ 59: Nike P-6000 Reflectivity SE 2 Black (Мужские - НЕДОСТУПЕН) -->
+<offer id="product59" available="false">
+  <name>Nike Мужские кроссовки P-6000 Reflectivity SE 2 Black</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product59</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product59.png</picture>
+  <count>30</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 59: размер 39 (недоступен) -->
+<offer id="sku59_39" group_id="product59" available="false">
+  <name>Nike Мужские кроссовки P-6000 Reflectivity SE 2 Black (39)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product59#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product59.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 59: размер 40 (недоступен) -->
+<offer id="sku59_40" group_id="product59" available="false">
+  <name>Nike Мужские кроссовки P-6000 Reflectivity SE 2 Black (40)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product59#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product59.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 59: размер 41 (недоступен) -->
+<offer id="sku59_41" group_id="product59" available="false">
+  <name>Nike Мужские кроссовки P-6000 Reflectivity SE 2 Black (41)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product59#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product59.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 59: размер 42 (недоступен) -->
+<offer id="sku59_42" group_id="product59" available="false">
+  <name>Nike Мужские кроссовки P-6000 Reflectivity SE 2 Black (42)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product59#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product59.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 59: размер 43 (недоступен) -->
+<offer id="sku59_43" group_id="product59" available="false">
+  <name>Nike Мужские кроссовки P-6000 Reflectivity SE 2 Black (43)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product59#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product59.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 59: размер 44 (недоступен) -->
+<offer id="sku59_44" group_id="product59" available="false">
+  <name>Nike Мужские кроссовки P-6000 Reflectivity SE 2 Black (44)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product59#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product59.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 59: размер 45 (недоступен) -->
+<offer id="sku59_45" group_id="product59" available="false">
+  <name>Nike Мужские кроссовки P-6000 Reflectivity SE 2 Black (45)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product59#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product59.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 60: Jordan Air Jordan 1 Low SE Olive (Мужские) -->
+<offer id="product60" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Olive</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product60</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product60.png</picture>
+  <count>99</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 60: размер 39 -->
+<offer id="sku60_39" group_id="product60" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Olive (39)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product60#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product60.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 60: размер 40 -->
+<offer id="sku60_40" group_id="product60" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Olive (40)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product60#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product60.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 60: размер 41 -->
+<offer id="sku60_41" group_id="product60" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Olive (41)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product60#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product60.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 60: размер 42 -->
+<offer id="sku60_42" group_id="product60" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Olive (42)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product60#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product60.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 60: размер 43 -->
+<offer id="sku60_43" group_id="product60" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Olive (43)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product60#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product60.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 60: размер 44 -->
+<offer id="sku60_44" group_id="product60" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Olive (44)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product60#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product60.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 60: размер 45 -->
+<offer id="sku60_45" group_id="product60" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Olive (45)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product60#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product60.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 61: Jordan Air Jordan 1 Low SE Rust (Мужские) -->
+<offer id="product61" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Rust</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product61</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product61.png</picture>
+  <count>4</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 61: размер 39 (недоступен) -->
+<offer id="sku61_39" group_id="product61" available="false">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Rust (39)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product61#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product61.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 61: размер 40 (недоступен) -->
+<offer id="sku61_40" group_id="product61" available="false">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Rust (40)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product61#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product61.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 61: размер 41 (недоступен) -->
+<offer id="sku61_41" group_id="product61" available="false">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Rust (41)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product61#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product61.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 61: размер 42 (недоступен) -->
+<offer id="sku61_42" group_id="product61" available="false">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Rust (42)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product61#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product61.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 61: размер 43 (недоступен) -->
+<offer id="sku61_43" group_id="product61" available="false">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Rust (43)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product61#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product61.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 61: размер 44 -->
+<offer id="sku61_44" group_id="product61" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Rust (44)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product61#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product61.png</picture>
+  <count>4</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 61: размер 45 (недоступен) -->
+<offer id="sku61_45" group_id="product61" available="false">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Low SE Rust (45)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product61#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product61.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+
+<!-- ПРОДУКТ 62: Jordan Air Jordan 1 Mid SE Black/Olive (Мужские) -->
+<offer id="product62" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Black/Olive</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product62</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product62.png</picture>
+  <count>60</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 62: размер 39 -->
+<offer id="sku62_39" group_id="product62" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Black/Olive (39)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product62#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product62.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 62: размер 40 -->
+<offer id="sku62_40" group_id="product62" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Black/Olive (40)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product62#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product62.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 62: размер 41 -->
+<offer id="sku62_41" group_id="product62" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Black/Olive (41)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product62#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product62.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 62: размер 42 -->
+<offer id="sku62_42" group_id="product62" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Black/Olive (42)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product62#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product62.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 62: размер 43 -->
+<offer id="sku62_43" group_id="product62" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Black/Olive (43)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product62#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product62.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 62: размер 44 -->
+<offer id="sku62_44" group_id="product62" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Black/Olive (44)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product62#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product62.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 62: размер 45 (недоступен) -->
+<offer id="sku62_45" group_id="product62" available="false">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Black/Olive (45)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product62#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product62.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 63: Jordan Air Jordan 1 Mid SE Gray/Blue (Мужские) -->
+<offer id="product63" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Gray/Blue</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product63</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product63.png</picture>
+  <count>4</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 63: размер 39 (недоступен) -->
+<offer id="sku63_39" group_id="product63" available="false">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Gray/Blue (39)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product63#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product63.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 63: размер 40 -->
+<offer id="sku63_40" group_id="product63" available="true">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Gray/Blue (40)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product63#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product63.png</picture>
+  <count>4</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 63: размер 41 (недоступен) -->
+<offer id="sku63_41" group_id="product63" available="false">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Gray/Blue (41)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product63#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product63.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 63: размер 42 (недоступен) -->
+<offer id="sku63_42" group_id="product63" available="false">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Gray/Blue (42)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product63#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product63.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 63: размер 43 (недоступен) -->
+<offer id="sku63_43" group_id="product63" available="false">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Gray/Blue (43)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product63#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product63.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 63: размер 44 (недоступен) -->
+<offer id="sku63_44" group_id="product63" available="false">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Gray/Blue (44)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product63#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product63.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 63: размер 45 (недоступен) -->
+<offer id="sku63_45" group_id="product63" available="false">
+  <name>Jordan Мужские кроссовки Air Jordan 1 Mid SE Gray/Blue (45)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>4</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product63#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product63.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 64: adidas adizero Evo SL White (Мужские) -->
+<offer id="product64" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL White</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>25</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 64: размер 39 (недоступен) -->
+<offer id="sku64_39" group_id="product64" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL White (39)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 64: размер 40 -->
+<offer id="sku64_40" group_id="product64" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL White (40)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 64: размер 41 -->
+<offer id="sku64_41" group_id="product64" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL White (41)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 64: размер 42 -->
+<offer id="sku64_42" group_id="product64" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL White (42)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 64: размер 43 (недоступен) -->
+<offer id="sku64_43" group_id="product64" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL White (43)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 64: размер 44 (недоступен) -->
+<offer id="sku64_44" group_id="product64" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL White (44)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 64: размер 45 (недоступен) -->
+<offer id="sku64_45" group_id="product64" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL White (45)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 65: adidas adizero Evo SL Black (Мужские) -->
+<offer id="product65" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL Black</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>25</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 65: размер 39 (недоступен) -->
+<offer id="sku65_39" group_id="product65" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL Black (39)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 65: размер 40 (недоступен) -->
+<offer id="sku65_40" group_id="product65" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL Black (40)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 65: размер 41 -->
+<offer id="sku65_41" group_id="product65" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL Black (41)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 65: размер 42 -->
+<offer id="sku65_42" group_id="product65" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL Black (42)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 65: размер 43 -->
+<offer id="sku65_43" group_id="product65" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL Black (43)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 65: размер 44 (недоступен) -->
+<offer id="sku65_44" group_id="product65" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL Black (44)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 65: размер 45 (недоступен) -->
+<offer id="sku65_45" group_id="product65" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL Black (45)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 64: adidas adizero Evo SL White (Мужские) -->
+<offer id="product64" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL White</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>25</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 64: размер 39 (недоступен) -->
+<offer id="sku64_39" group_id="product64" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL White (39)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 64: размер 40 -->
+<offer id="sku64_40" group_id="product64" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL White (40)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 64: размер 41 -->
+<offer id="sku64_41" group_id="product64" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL White (41)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 64: размер 42 -->
+<offer id="sku64_42" group_id="product64" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL White (42)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 64: размер 43 (недоступен) -->
+<offer id="sku64_43" group_id="product64" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL White (43)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 64: размер 44 (недоступен) -->
+<offer id="sku64_44" group_id="product64" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL White (44)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 64: размер 45 (недоступен) -->
+<offer id="sku64_45" group_id="product64" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL White (45)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product64#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product64.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+
+<!-- ПРОДУКТ 65: adidas adizero Evo SL Black (Мужские) -->
+<offer id="product65" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL Black</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>25</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 65: размер 39 (недоступен) -->
+<offer id="sku65_39" group_id="product65" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL Black (39)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 65: размер 40 (недоступен) -->
+<offer id="sku65_40" group_id="product65" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL Black (40)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 65: размер 41 -->
+<offer id="sku65_41" group_id="product65" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL Black (41)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 65: размер 42 -->
+<offer id="sku65_42" group_id="product65" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL Black (42)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 65: размер 43 -->
+<offer id="sku65_43" group_id="product65" available="true">
+  <name>adidas Мужские кроссовки adizero Evo SL Black (43)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 65: размер 44 (недоступен) -->
+<offer id="sku65_44" group_id="product65" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL Black (44)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 65: размер 45 (недоступен) -->
+<offer id="sku65_45" group_id="product65" available="false">
+  <name>adidas Мужские кроссовки adizero Evo SL Black (45)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>6</categoryId>
+  <vendor>adidas</vendor>
+  <url>https://demoshop.com/product65#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product65.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
 
 
     </offers>
