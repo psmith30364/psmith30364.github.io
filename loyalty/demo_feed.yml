@@ -44,10 +44,6 @@
         <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
         <count>250</count>
         <delivery>true</delivery>
-        
-        <param name="product_collection">Air Force 1</param>
-        <param name="product_gender">Женские</param>
-        <param name="product_rating">4.8</param>
       </offer>
       
       <!-- SKU продукта 1: размер 36 -->
@@ -61,10 +57,6 @@
         <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
         <count>40</count>
         <delivery>true</delivery>
-        
-        <param name="sku_collection">Air Force 1</param>
-        <param name="sku_gender">Женские</param>
-        <param name="sku_size">36</param>
       </offer>
       
       <!-- SKU продукта 1: размер 37 -->
@@ -78,10 +70,6 @@
         <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
         <count>60</count>
         <delivery>true</delivery>
-        
-        <param name="sku_collection">Air Force 1</param>
-        <param name="sku_gender">Женские</param>
-        <param name="sku_size">37</param>
       </offer>
       
       <!-- SKU продукта 1: размер 38 -->
@@ -95,10 +83,6 @@
         <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
         <count>40</count>
         <delivery>true</delivery>
-
-        <param name="sku_collection">Air Force 1</param>
-        <param name="sku_gender">Женские</param>
-        <param name="sku_size">38</param>
       </offer>
       
       <!-- SKU продукта 1: размер 39 -->
@@ -112,10 +96,6 @@
         <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
         <count>40</count>
         <delivery>true</delivery>
-        
-        <param name="sku_collection">Air Force 1</param>
-        <param name="sku_gender">Женские</param>
-        <param name="sku_size">39</param>
       </offer>
       
       <!-- SKU продукта 1: размер 40 -->
@@ -129,10 +109,6 @@
         <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
         <count>20</count>
         <delivery>true</delivery>
-        
-        <param name="sku_collection">Air Force 1</param>
-        <param name="sku_gender">Женские</param>
-        <param name="sku_size">40</param>
       </offer>
 
       <!-- SKU продукта 1: размер 41 -->
@@ -146,11 +122,6 @@
         <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
         <count>30</count>
         <delivery>true</delivery>
-        
-        <param name="sku_collection">Air Force 1</param>
-        <param name="sku_gender">Женские</param>
-        <param name="sku_color">White</param>
-        <param name="sku_size">41</param>
       </offer>
 
       <!-- SKU продукта 1: размер 42 -->
@@ -164,11 +135,6 @@
         <picture>https://psmith30364.github.io/loyalty/images/product1.png</picture>
         <count>20</count>
         <delivery>true</delivery>
-        
-        <param name="sku_collection">Air Force 1</param>
-        <param name="sku_gender">Женские</param>
-        <param name="sku_color">White</param>
-        <param name="sku_size">42</param>
       </offer>
 
 
@@ -185,10 +151,6 @@
         <picture>https://psmith30364.github.io/loyalty/images/product2.png</picture>
         <count>75</count>
         <delivery>true</delivery>
-        
-        <param name="product_collection">Air Force 1</param>
-        <param name="product_gender">Женские</param>
-        <param name="product_rating">4.8</param>
       </offer>
       
       <!-- SKU продукта 2: размер 36 -->
@@ -202,10 +164,6 @@
         <picture>https://psmith30364.github.io/loyalty/images/product2.png</picture>
         <count>10</count>
         <delivery>true</delivery>
-        
-        <param name="sku_collection">Air Force 1</param>
-        <param name="sku_gender">Женские</param>
-        <param name="sku_size">36</param>
       </offer>
       
       <!-- SKU продукта 2: размер 37 -->
@@ -219,10 +177,6 @@
         <picture>https://psmith30364.github.io/loyalty/images/product2.png</picture>
         <count>20</count>
         <delivery>true</delivery>
-        
-        <param name="sku_collection">Air Force 1</param>
-        <param name="sku_gender">Женские</param>
-        <param name="sku_size">37</param>
       </offer>
       
       <!-- SKU продукта 2: размер 38 -->
@@ -236,10 +190,6 @@
         <picture>https://psmith30364.github.io/loyalty/images/product2.png</picture>
         <count>10</count>
         <delivery>true</delivery>
-        
-        <param name="sku_collection">Air Force 1</param>
-        <param name="sku_gender">Женские</param>
-        <param name="sku_size">38</param>
       </offer>
       
       <!-- SKU продукта 2: размер 39 -->
@@ -253,10 +203,6 @@
         <picture>https://psmith30364.github.io/loyalty/images/product2.png</picture>
         <count>15</count>
         <delivery>true</delivery>
-        
-        <param name="sku_collection">Air Force 1</param>
-        <param name="sku_gender">Женские</param>
-        <param name="sku_size">39</param>
       </offer>
 
       <!-- SKU продукта 2: размер 40 -->
@@ -270,10 +216,6 @@
         <picture>https://psmith30364.github.io/loyalty/images/product2.png</picture>
         <count>15</count>
         <delivery>true</delivery>
-        
-        <param name="sku_collection">Air Force 1</param>
-        <param name="sku_gender">Женские</param>
-        <param name="sku_size">40</param>
       </offer>
 
       <!-- SKU продукта 2: размер 41 -->
@@ -287,10 +229,6 @@
         <picture>https://psmith30364.github.io/loyalty/images/product2.png</picture>
         <count>5</count>
         <delivery>true</delivery>
-        
-        <param name="sku_collection">Air Force 1</param>
-        <param name="sku_gender">Женские</param>
-        <param name="sku_size">41</param>
       </offer>
 
       <!-- SKU продукта 2: размер 42 -->
@@ -304,11 +242,3932 @@
         <picture>https://psmith30364.github.io/loyalty/images/product2.png</picture>
         <count>0</count>
         <delivery>true</delivery>
-        
-        <param name="sku_collection">Air Force 1</param>
-        <param name="sku_gender">Женские</param>
-        <param name="sku_size">42</param>
       </offer>
+
+
+
+
+      <!-- ПРОДУКТ 3: Nike P-6000 Gray (Женские) -->
+      <offer id="product3" available="true">
+        <name>Nike Женские кроссовки P-6000 Gray</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product3</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product3.png</picture>
+        <count>57</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- SKU продукта 3: размер 36 -->
+      <offer id="sku3_36" group_id="product3" available="true">
+        <name>Nike P-6000 Gray (36)</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product3#sku36</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product3.png</picture>
+        <count>8</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- SKU продукта 3: размер 37 -->
+      <offer id="sku3_37" group_id="product3" available="true">
+        <name>Nike P-6000 Gray (37)</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product3#sku37</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product3.png</picture>
+        <count>10</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- SKU продукта 3: размер 38 -->
+      <offer id="sku3_38" group_id="product3" available="true">
+        <name>Nike P-6000 Gray (38)</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product3#sku38</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product3.png</picture>
+        <count>12</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- SKU продукта 3: размер 39 -->
+      <offer id="sku3_39" group_id="product3" available="true">
+        <name>Nike P-6000 Gray (39)</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product3#sku39</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product3.png</picture>
+        <count>9</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- SKU продукта 3: размер 40 -->
+      <offer id="sku3_40" group_id="product3" available="true">
+        <name>Nike P-6000 Gray (40)</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product3#sku40</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product3.png</picture>
+        <count>7</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- SKU продукта 3: размер 41 -->
+      <offer id="sku3_41" group_id="product3" available="true">
+        <name>Nike P-6000 Gray (41)</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product3#sku41</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product3.png</picture>
+        <count>6</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- SKU продукта 3: размер 42 -->
+      <offer id="sku3_42" group_id="product3" available="true">
+        <name>Nike P-6000 Gray (42)</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product3#sku42</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product3.png</picture>
+        <count>5</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- ПРОДУКТ 4: Nike P-6000 Burgundy Crush (Женские) -->
+      <offer id="product4" available="true">
+        <name>Nike Женские кроссовки P-6000 Burgundy Crush</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>1</categoryId>
+        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product4</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
+        <count>40</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- SKU продукта 4: размер 36 -->
+      <offer id="sku4_36" group_id="product4" available="true">
+        <name>Nike Женские кроссовки P-6000 Burgundy Crush (36)</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>1</categoryId>
+        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product4#sku36</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
+        <count>5</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- SKU продукта 4: размер 37 -->
+      <offer id="sku4_37" group_id="product4" available="true">
+        <name>Nike Женские кроссовки P-6000 Burgundy Crush (37)</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>1</categoryId>
+        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product4#sku37</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
+        <count>7</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- SKU продукта 4: размер 38 -->
+      <offer id="sku4_38" group_id="product4" available="true">
+        <name>Nike Женские кроссовки P-6000 Burgundy Crush (38)</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>1</categoryId>
+        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product4#sku38</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
+        <count>8</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- SKU продукта 4: размер 39 -->
+      <offer id="sku4_39" group_id="product4" available="true">
+        <name>Nike Женские кроссовки P-6000 Burgundy Crush (39)</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>1</categoryId>
+        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product4#sku39</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
+        <count>7</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- SKU продукта 4: размер 40 -->
+      <offer id="sku4_40" group_id="product4" available="true">
+        <name>Nike Женские кроссовки P-6000 Burgundy Crush (40)</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>1</categoryId>
+        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product4#sku40</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
+        <count>6</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- SKU продукта 4: размер 41 -->
+      <offer id="sku4_41" group_id="product4" available="true">
+        <name>Nike Женские кроссовки P-6000 Burgundy Crush (41)</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>1</categoryId>
+        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product4#sku41</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
+        <count>4</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- SKU продукта 4: размер 42 -->
+      <offer id="sku4_42" group_id="product4" available="true">
+        <name>Nike Женские кроссовки P-6000 Burgundy Crush (42)</name>
+        <price>16999</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>sneakers_women</categoryId>
+        <categoryId>1</categoryId>
+        <categoryId>8</categoryId>
+        <categoryId>7</categoryId>
+        <vendor>Nike</vendor>
+        <url>https://demoshop.com/product4#sku42</url>
+        <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
+        <count>3</count>
+        <delivery>true</delivery>
+      </offer>
+
+      <!-- ПРОДУКТ 5: Nike P-6000 Platinum Tint (Женские) -->
+<offer id="product5" available="true">
+  <name>Nike Женские кроссовки P-6000 Platinum Tint</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>sneakers_women</categoryId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product5</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product5.png</picture>
+  <count>20</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 5: размер 36 (недоступен) -->
+<offer id="sku5_36" group_id="product5" available="false">
+  <name>Nike Женские кроссовки P-6000 Platinum Tint (36)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>sneakers_women</categoryId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product5#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product5.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 5: размер 37 -->
+<offer id="sku5_37" group_id="product5" available="true">
+  <name>Nike Женские кроссовки P-6000 Platinum Tint (37)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>sneakers_women</categoryId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product5#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product5.png</picture>
+  <count>4</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 5: размер 38 -->
+<offer id="sku5_38" group_id="product5" available="true">
+  <name>Nike Женские кроссовки P-6000 Platinum Tint (38)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>sneakers_women</categoryId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product5#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product5.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 5: размер 39 -->
+<offer id="sku5_39" group_id="product5" available="true">
+  <name>Nike Женские кроссовки P-6000 Platinum Tint (39)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>sneakers_women</categoryId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product5#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product5.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 5: размер 40 (недоступен) -->
+<offer id="sku5_40" group_id="product5" available="false">
+  <name>Nike Женские кроссовки P-6000 Platinum Tint (40)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>sneakers_women</categoryId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product5#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product5.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 5: размер 41 -->
+<offer id="sku5_41" group_id="product5" available="true">
+  <name>Nike Женские кроссовки P-6000 Platinum Tint (41)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>sneakers_women</categoryId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product5#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product5.png</picture>
+  <count>3</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 5: размер 42 -->
+<offer id="sku5_42" group_id="product5" available="true">
+  <name>Nike Женские кроссовки P-6000 Platinum Tint (42)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>sneakers_women</categoryId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product5#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product5.png</picture>
+  <count>3</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- ПРОДУКТ 6: Nike Ava Rover (Унисекс) -->
+<offer id="product6" available="false">
+  <name>Nike Кроссовки Ava Rover</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product6</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product6.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 6: размер 36 -->
+<offer id="sku6_36" group_id="product6" available="false">
+  <name>Nike Кроссовки Ava Rover (36)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product6#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product6.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 6: размер 37 -->
+<offer id="sku6_37" group_id="product6" available="false">
+  <name>Nike Кроссовки Ava Rover (37)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product6#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product6.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 6: размер 38 -->
+<offer id="sku6_38" group_id="product6" available="false">
+  <name>Nike Кроссовки Ava Rover (38)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product6#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product6.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 6: размер 39 -->
+<offer id="sku6_39" group_id="product6" available="false">
+  <name>Nike Кроссовки Ava Rover (39)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product6#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product6.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 6: размер 40 -->
+<offer id="sku6_40" group_id="product6" available="false">
+  <name>Nike Кроссовки Ava Rover (40)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product6#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product6.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 6: размер 41 -->
+<offer id="sku6_41" group_id="product6" available="false">
+  <name>Nike Кроссовки Ava Rover (41)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product6#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product6.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 6: размер 42 -->
+<offer id="sku6_42" group_id="product6" available="false">
+  <name>Nike Кроссовки Ava Rover (42)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product6#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product6.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 6: размер 43 -->
+<offer id="sku6_43" group_id="product6" available="false">
+  <name>Nike Кроссовки Ava Rover (43)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product6#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product6.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 6: размер 44 -->
+<offer id="sku6_44" group_id="product6" available="false">
+  <name>Nike Кроссовки Ava Rover (44)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product6#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product6.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 6: размер 45 -->
+<offer id="sku6_45" group_id="product6" available="false">
+  <name>Nike Кроссовки Ava Rover (45)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>3</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product6#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product6.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 7: Jordan Flight Court Multicolor (Женские) -->
+<offer id="product7" available="true">
+  <name>Jordan Женские кроссовки Flight Court Multicolor</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product7</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product7.png</picture>
+  <count>30</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 7: размер 36 -->
+<offer id="sku7_36" group_id="product7" available="true">
+  <name>Jordan Женские кроссовки Flight Court Multicolor (36)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product7#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product7.png</picture>
+  <count>4</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 7: размер 37 -->
+<offer id="sku7_37" group_id="product7" available="true">
+  <name>Jordan Женские кроссовки Flight Court Multicolor (37)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product7#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product7.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 7: размер 38 -->
+<offer id="sku7_38" group_id="product7" available="true">
+  <name>Jordan Женские кроссовки Flight Court Multicolor (38)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product7#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product7.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 7: размер 39 -->
+<offer id="sku7_39" group_id="product7" available="true">
+  <name>Jordan Женские кроссовки Flight Court Multicolor (39)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product7#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product7.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 7: размер 40 -->
+<offer id="sku7_40" group_id="product7" available="true">
+  <name>Jordan Женские кроссовки Flight Court Multicolor (40)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product7#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product7.png</picture>
+  <count>4</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 7: размер 41 -->
+<offer id="sku7_41" group_id="product7" available="true">
+  <name>Jordan Женские кроссовки Flight Court Multicolor (41)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product7#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product7.png</picture>
+  <count>4</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 7: размер 42 -->
+<offer id="sku7_42" group_id="product7" available="true">
+  <name>Jordan Женские кроссовки Flight Court Multicolor (42)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product7#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product7.png</picture>
+  <count>3</count>
+  <delivery>true</delivery>
+</offer>
+
+
+<!-- ПРОДУКТ 8: Jordan Flight Court Lilac (Женские) -->
+<offer id="product8" available="true">
+  <name>Jordan Женские кроссовки Flight Court Lilac</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product8</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product8.png</picture>
+  <count>23</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 8: размер 36 -->
+<offer id="sku8_36" group_id="product8" available="true">
+  <name>Jordan Женские кроссовки Flight Court Lilac (36)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product8#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product8.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 8: размер 37 (недоступен) -->
+<offer id="sku8_37" group_id="product8" available="false">
+  <name>Jordan Женские кроссовки Flight Court Lilac (37)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product8#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product8.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 8: размер 38 (недоступен) -->
+<offer id="sku8_38" group_id="product8" available="false">
+  <name>Jordan Женские кроссовки Flight Court Lilac (38)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product8#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product8.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 8: размер 39 (недоступен) -->
+<offer id="sku8_39" group_id="product8" available="false">
+  <name>Jordan Женские кроссовки Flight Court Lilac (39)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product8#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product8.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 8: размер 40 -->
+<offer id="sku8_40" group_id="product8" available="true">
+  <name>Jordan Женские кроссовки Flight Court Lilac (40)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product8#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product8.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 8: размер 41 -->
+<offer id="sku8_41" group_id="product8" available="true">
+  <name>Jordan Женские кроссовки Flight Court Lilac (41)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product8#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product8.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 8: размер 42 -->
+<offer id="sku8_42" group_id="product8" available="true">
+  <name>Jordan Женские кроссовки Flight Court Lilac (42)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product8#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product8.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+
+<!-- ПРОДУКТ 9: Nike Air Max Portal White/Pink (Женские) -->
+<offer id="product9" available="true">
+  <name>Nike Женские кроссовки Air Max Portal White/Pink</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product9</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product9.png</picture>
+  <count>45</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 9: размер 36 -->
+<offer id="sku9_36" group_id="product9" available="true">
+  <name>Nike Женские кроссовки Air Max Portal White/Pink (36)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product9#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product9.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 9: размер 37 -->
+<offer id="sku9_37" group_id="product9" available="true">
+  <name>Nike Женские кроссовки Air Max Portal White/Pink (37)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product9#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product9.png</picture>
+  <count>7</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 9: размер 38 -->
+<offer id="sku9_38" group_id="product9" available="true">
+  <name>Nike Женские кроссовки Air Max Portal White/Pink (38)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product9#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product9.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 9: размер 39 -->
+<offer id="sku9_39" group_id="product9" available="true">
+  <name>Nike Женские кроссовки Air Max Portal White/Pink (39)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product9#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product9.png</picture>
+  <count>7</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 9: размер 40 -->
+<offer id="sku9_40" group_id="product9" available="true">
+  <name>Nike Женские кроссовки Air Max Portal White/Pink (40)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product9#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product9.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 9: размер 41 -->
+<offer id="sku9_41" group_id="product9" available="true">
+  <name>Nike Женские кроссовки Air Max Portal White/Pink (41)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product9#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product9.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 9: размер 42 -->
+<offer id="sku9_42" group_id="product9" available="true">
+  <name>Nike Женские кроссовки Air Max Portal White/Pink (42)</name>
+  <price>16999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product9#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product9.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 10: Nike Air Max Portal Silt Red (Женские) -->
+<offer id="product10" available="true">
+  <name>Nike Женские кроссовки Air Max Portal Silt Red</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product10</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product10.png</picture>
+  <count>80</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 10: размер 36 -->
+<offer id="sku10_36" group_id="product10" available="true">
+  <name>Nike Женские кроссовки Air Max Portal Silt Red (36)</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product10#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product10.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 10: размер 37 -->
+<offer id="sku10_37" group_id="product10" available="true">
+  <name>Nike Женские кроссовки Air Max Portal Silt Red (37)</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product10#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product10.png</picture>
+  <count>13</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 10: размер 38 -->
+<offer id="sku10_38" group_id="product10" available="true">
+  <name>Nike Женские кроссовки Air Max Portal Silt Red (38)</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product10#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product10.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 10: размер 39 -->
+<offer id="sku10_39" group_id="product10" available="true">
+  <name>Nike Женские кроссовки Air Max Portal Silt Red (39)</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product10#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product10.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 10: размер 40 -->
+<offer id="sku10_40" group_id="product10" available="true">
+  <name>Nike Женские кроссовки Air Max Portal Silt Red (40)</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product10#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product10.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 10: размер 41 -->
+<offer id="sku10_41" group_id="product10" available="true">
+  <name>Nike Женские кроссовки Air Max Portal Silt Red (41)</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product10#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product10.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 10: размер 42 -->
+<offer id="sku10_42" group_id="product10" available="true">
+  <name>Nike Женские кроссовки Air Max Portal Silt Red (42)</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product10#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product10.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+
+<!-- ПРОДУКТ 11: Nike Air Max Portal Sundial (Женские) -->
+<offer id="product11" available="false">
+  <name>Nike Женские кроссовки Air Max Portal Sundial</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product11</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product11.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 11: размер 36 -->
+<offer id="sku11_36" group_id="product11" available="false">
+  <name>Nike Женские кроссовки Air Max Portal Sundial (36)</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product11#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product11.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 11: размер 37 -->
+<offer id="sku11_37" group_id="product11" available="false">
+  <name>Nike Женские кроссовки Air Max Portal Sundial (37)</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product11#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product11.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 11: размер 38 -->
+<offer id="sku11_38" group_id="product11" available="false">
+  <name>Nike Женские кроссовки Air Max Portal Sundial (38)</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product11#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product11.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 11: размер 39 -->
+<offer id="sku11_39" group_id="product11" available="false">
+  <name>Nike Женские кроссовки Air Max Portal Sundial (39)</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product11#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product11.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 11: размер 40 -->
+<offer id="sku11_40" group_id="product11" available="false">
+  <name>Nike Женские кроссовки Air Max Portal Sundial (40)</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product11#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product11.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 11: размер 41 -->
+<offer id="sku11_41" group_id="product11" available="false">
+  <name>Nike Женские кроссовки Air Max Portal Sundial (41)</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product11#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product11.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 11: размер 42 -->
+<offer id="sku11_42" group_id="product11" available="false">
+  <name>Nike Женские кроссовки Air Max Portal Sundial (42)</name>
+  <price>12599</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product11#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product11.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+<!-- ПРОДУКТ 12: Jordan Air Jordan 1 Low Baroque (Женские) -->
+<offer id="product12" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Baroque</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product12</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product12.png</picture>
+  <count>60</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 12: размер 36 -->
+<offer id="sku12_36" group_id="product12" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Baroque (36)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product12#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product12.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 12: размер 37 -->
+<offer id="sku12_37" group_id="product12" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Baroque (37)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product12#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product12.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 12: размер 38 -->
+<offer id="sku12_38" group_id="product12" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Baroque (38)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product12#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product12.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 12: размер 39 -->
+<offer id="sku12_39" group_id="product12" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Baroque (39)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product12#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product12.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 12: размер 40 -->
+<offer id="sku12_40" group_id="product12" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Baroque (40)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product12#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product12.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 12: размер 41 -->
+<offer id="sku12_41" group_id="product12" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Baroque (41)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product12#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product12.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 12: размер 42 -->
+<offer id="sku12_42" group_id="product12" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Baroque (42)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product12#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product12.png</picture>
+  <count>7</count>
+  <delivery>true</delivery>
+</offer>
+
+
+<!-- ПРОДУКТ 13: Jordan Air Jordan 1 Low Beige/Blue (Женские) -->
+<offer id="product13" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige/Blue</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product13</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product13.png</picture>
+  <count>50</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 13: размер 36 -->
+<offer id="sku13_36" group_id="product13" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige/Blue (36)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product13#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product13.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 13: размер 37 -->
+<offer id="sku13_37" group_id="product13" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige/Blue (37)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product13#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product13.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 13: размер 38 -->
+<offer id="sku13_38" group_id="product13" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige/Blue (38)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product13#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product13.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 13: размер 39 -->
+<offer id="sku13_39" group_id="product13" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige/Blue (39)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product13#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product13.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 13: размер 40 -->
+<offer id="sku13_40" group_id="product13" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige/Blue (40)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product13#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product13.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 13: размер 41 -->
+<offer id="sku13_41" group_id="product13" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige/Blue (41)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product13#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product13.png</picture>
+  <count>8</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 13: размер 42 (недоступен) -->
+<offer id="sku13_42" group_id="product13" available="false">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige/Blue (42)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product13#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product13.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+<!-- ПРОДУКТ 14: Jordan Air Jordan 1 Low Beige (Женские) -->
+<offer id="product14" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product14</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product14.png</picture>
+  <count>100</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 14: размер 36 -->
+<offer id="sku14_36" group_id="product14" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige (36)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product14#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product14.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 14: размер 37 -->
+<offer id="sku14_37" group_id="product14" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige (37)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product14#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product14.png</picture>
+  <count>16</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 14: размер 38 -->
+<offer id="sku14_38" group_id="product14" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige (38)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product14#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product14.png</picture>
+  <count>16</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 14: размер 39 -->
+<offer id="sku14_39" group_id="product14" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige (39)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product14#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product14.png</picture>
+  <count>15</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 14: размер 40 -->
+<offer id="sku14_40" group_id="product14" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige (40)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product14#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product14.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 14: размер 41 -->
+<offer id="sku14_41" group_id="product14" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige (41)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product14#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product14.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 14: размер 42 -->
+<offer id="sku14_42" group_id="product14" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Low Beige (42)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product14#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product14.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- ПРОДУКТ 15: Nike Zoom Vomero 5 Gray (Женские) -->
+<offer id="product15" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Gray</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product15</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product15.png</picture>
+  <count>78</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 15: размер 36 -->
+<offer id="sku15_36" group_id="product15" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Gray (36)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product15#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product15.png</picture>
+  <count>11</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 15: размер 37 -->
+<offer id="sku15_37" group_id="product15" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Gray (37)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product15#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product15.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 15: размер 38 -->
+<offer id="sku15_38" group_id="product15" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Gray (38)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product15#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product15.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 15: размер 39 -->
+<offer id="sku15_39" group_id="product15" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Gray (39)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product15#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product15.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 15: размер 40 -->
+<offer id="sku15_40" group_id="product15" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Gray (40)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product15#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product15.png</picture>
+  <count>11</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 15: размер 41 -->
+<offer id="sku15_41" group_id="product15" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Gray (41)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product15#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product15.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 15: размер 42 -->
+<offer id="sku15_42" group_id="product15" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Gray (42)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product15#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product15.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+
+<!-- ПРОДУКТ 16: Nike Zoom Vomero 5 Pearl White/Particle Pink (Женские) -->
+<offer id="product16" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Pearl White/Particle Pink</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product16</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product16.png</picture>
+  <count>48</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 16: размер 36 -->
+<offer id="sku16_36" group_id="product16" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Pearl White/Particle Pink (36)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product16#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product16.png</picture>
+  <count>16</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 16: размер 37 (недоступен) -->
+<offer id="sku16_37" group_id="product16" available="false">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Pearl White/Particle Pink (37)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product16#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product16.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 16: размер 38 (недоступен) -->
+<offer id="sku16_38" group_id="product16" available="false">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Pearl White/Particle Pink (38)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product16#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product16.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 16: размер 39 (недоступен) -->
+<offer id="sku16_39" group_id="product16" available="false">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Pearl White/Particle Pink (39)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product16#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product16.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 16: размер 40 (недоступен) -->
+<offer id="sku16_40" group_id="product16" available="false">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Pearl White/Particle Pink (40)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product16#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product16.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 16: размер 41 -->
+<offer id="sku16_41" group_id="product16" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Pearl White/Particle Pink (41)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product16#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product16.png</picture>
+  <count>16</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 16: размер 42 -->
+<offer id="sku16_42" group_id="product16" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Pearl White/Particle Pink (42)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product16#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product16.png</picture>
+  <count>16</count>
+  <delivery>true</delivery>
+</offer>
+
+
+<!-- ПРОДУКТ 17: Nike Zoom Vomero 5 Mint/White (Женские) -->
+<offer id="product17" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Mint/White</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product17</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product17.png</picture>
+  <count>31</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 17: размер 36 -->
+<offer id="sku17_36" group_id="product17" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Mint/White (36)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product17#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product17.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 17: размер 37 (недоступен) -->
+<offer id="sku17_37" group_id="product17" available="false">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Mint/White (37)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product17#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product17.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 17: размер 38 (недоступен) -->
+<offer id="sku17_38" group_id="product17" available="false">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Mint/White (38)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product17#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product17.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 17: размер 39 (недоступен) -->
+<offer id="sku17_39" group_id="product17" available="false">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Mint/White (39)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product17#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product17.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 17: размер 40 (недоступен) -->
+<offer id="sku17_40" group_id="product17" available="false">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Mint/White (40)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product17#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product17.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 17: размер 41 -->
+<offer id="sku17_41" group_id="product17" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Mint/White (41)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product17#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product17.png</picture>
+  <count>11</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 17: размер 42 -->
+<offer id="sku17_42" group_id="product17" available="true">
+  <name>Nike Женские кроссовки Zoom Vomero 5 Mint/White (42)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product17#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product17.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+<!-- ПРОДУКТ 18: Nike Air Force 1 LO (Женские) -->
+<offer id="product18" available="true">
+  <name>Nike Женские кроссовки Air Force 1 LO</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product18</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product18.png</picture>
+  <count>146</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 18: размер 36 -->
+<offer id="sku18_36" group_id="product18" available="true">
+  <name>Nike Женские кроссовки Air Force 1 LO (36)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product18#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product18.png</picture>
+  <count>21</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 18: размер 37 -->
+<offer id="sku18_37" group_id="product18" available="true">
+  <name>Nike Женские кроссовки Air Force 1 LO (37)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product18#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product18.png</picture>
+  <count>22</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 18: размер 38 -->
+<offer id="sku18_38" group_id="product18" available="true">
+  <name>Nike Женские кроссовки Air Force 1 LO (38)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product18#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product18.png</picture>
+  <count>23</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 18: размер 39 -->
+<offer id="sku18_39" group_id="product18" available="true">
+  <name>Nike Женские кроссовки Air Force 1 LO (39)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product18#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product18.png</picture>
+  <count>22</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 18: размер 40 -->
+<offer id="sku18_40" group_id="product18" available="true">
+  <name>Nike Женские кроссовки Air Force 1 LO (40)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product18#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product18.png</picture>
+  <count>20</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 18: размер 41 -->
+<offer id="sku18_41" group_id="product18" available="true">
+  <name>Nike Женские кроссовки Air Force 1 LO (41)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product18#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product18.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 18: размер 42 -->
+<offer id="sku18_42" group_id="product18" available="true">
+  <name>Nike Женские кроссовки Air Force 1 LO (42)</name>
+  <price>21999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product18#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product18.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- ПРОДУКТ 19: Jordan Air Jordan 1 Mid SE V2 (Женские) -->
+<offer id="product19" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Mid SE V2</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product19</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product19.png</picture>
+  <count>88</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 19: размер 36 -->
+<offer id="sku19_36" group_id="product19" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Mid SE V2 (36)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product19#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product19.png</picture>
+  <count>13</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 19: размер 37 -->
+<offer id="sku19_37" group_id="product19" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Mid SE V2 (37)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product19#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product19.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 19: размер 38 -->
+<offer id="sku19_38" group_id="product19" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Mid SE V2 (38)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product19#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product19.png</picture>
+  <count>14</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 19: размер 39 -->
+<offer id="sku19_39" group_id="product19" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Mid SE V2 (39)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product19#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product19.png</picture>
+  <count>13</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 19: размер 40 -->
+<offer id="sku19_40" group_id="product19" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Mid SE V2 (40)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product19#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product19.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 19: размер 41 -->
+<offer id="sku19_41" group_id="product19" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Mid SE V2 (41)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product19#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product19.png</picture>
+  <count>11</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 19: размер 42 -->
+<offer id="sku19_42" group_id="product19" available="true">
+  <name>Jordan Женские кроссовки Air Jordan 1 Mid SE V2 (42)</name>
+  <price>23999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>9</categoryId>
+  <vendor>Jordan</vendor>
+  <url>https://demoshop.com/product19#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product19.png</picture>
+  <count>11</count>
+  <delivery>true</delivery>
+</offer>
+
+
+<!-- ПРОДУКТ 20: Nike Shox R4 Silver/White (Женские) -->
+<offer id="product20" available="true">
+  <name>Nike Женские кроссовки Shox R4 Silver/White</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product20</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product20.png</picture>
+  <count>12</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 20: размер 36 (недоступен) -->
+<offer id="sku20_36" group_id="product20" available="false">
+  <name>Nike Женские кроссовки Shox R4 Silver/White (36)</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product20#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product20.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 20: размер 37 (недоступен) -->
+<offer id="sku20_37" group_id="product20" available="false">
+  <name>Nike Женские кроссовки Shox R4 Silver/White (37)</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product20#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product20.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 20: размер 38 (недоступен) -->
+<offer id="sku20_38" group_id="product20" available="false">
+  <name>Nike Женские кроссовки Shox R4 Silver/White (38)</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product20#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product20.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 20: размер 39 (недоступен) -->
+<offer id="sku20_39" group_id="product20" available="false">
+  <name>Nike Женские кроссовки Shox R4 Silver/White (39)</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product20#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product20.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 20: размер 40 -->
+<offer id="sku20_40" group_id="product20" available="true">
+  <name>Nike Женские кроссовки Shox R4 Silver/White (40)</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product20#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product20.png</picture>
+  <count>5</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 20: размер 41 -->
+<offer id="sku20_41" group_id="product20" available="true">
+  <name>Nike Женские кроссовки Shox R4 Silver/White (41)</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product20#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product20.png</picture>
+  <count>4</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 20: размер 42 -->
+<offer id="sku20_42" group_id="product20" available="true">
+  <name>Nike Женские кроссовки Shox R4 Silver/White (42)</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product20#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product20.png</picture>
+  <count>3</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- ПРОДУКТ 21: Nike Shox R4 White/Red (Женские) -->
+<offer id="product21" available="true">
+  <name>Nike Женские кроссовки Shox R4 White/Red</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product21</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product21.png</picture>
+  <count>10</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 21: размер 36 -->
+<offer id="sku21_36" group_id="product21" available="true">
+  <name>Nike Женские кроссовки Shox R4 White/Red (36)</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product21#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product21.png</picture>
+  <count>6</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 21: размер 37 (недоступен) -->
+<offer id="sku21_37" group_id="product21" available="false">
+  <name>Nike Женские кроссовки Shox R4 White/Red (37)</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product21#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product21.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 21: размер 38 (недоступен) -->
+<offer id="sku21_38" group_id="product21" available="false">
+  <name>Nike Женские кроссовки Shox R4 White/Red (38)</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product21#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product21.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 21: размер 39 (недоступен) -->
+<offer id="sku21_39" group_id="product21" available="false">
+  <name>Nike Женские кроссовки Shox R4 White/Red (39)</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product21#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product21.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 21: размер 40 (недоступен) -->
+<offer id="sku21_40" group_id="product21" available="false">
+  <name>Nike Женские кроссовки Shox R4 White/Red (40)</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product21#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product21.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 21: размер 41 -->
+<offer id="sku21_41" group_id="product21" available="true">
+  <name>Nike Женские кроссовки Shox R4 White/Red (41)</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product21#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product21.png</picture>
+  <count>4</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 21: размер 42 (недоступен) -->
+<offer id="sku21_42" group_id="product21" available="false">
+  <name>Nike Женские кроссовки Shox R4 White/Red (42)</name>
+  <price>22999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>8</categoryId>
+  <vendor>Nike</vendor>
+  <url>https://demoshop.com/product21#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product21.png</picture>
+  <count>0</count>
+  <delivery>true</delivery>
+</offer>
+
+
+<!-- ПРОДУКТ 22: New Balance Warped Runner Beige (Унисекс) -->
+<offer id="product22" available="true">
+  <name>New Balance Кроссовки Warped Runner Beige</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product22</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product22.png</picture>
+  <count>250</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 22: размер 36 -->
+<offer id="sku22_36" group_id="product22" available="true">
+  <name>New Balance Кроссовки Warped Runner Beige (36)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product22#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product22.png</picture>
+  <count>25</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 22: размер 37 -->
+<offer id="sku22_37" group_id="product22" available="true">
+  <name>New Balance Кроссовки Warped Runner Beige (37)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product22#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product22.png</picture>
+  <count>25</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 22: размер 38 -->
+<offer id="sku22_38" group_id="product22" available="true">
+  <name>New Balance Кроссовки Warped Runner Beige (38)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product22#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product22.png</picture>
+  <count>25</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 22: размер 39 -->
+<offer id="sku22_39" group_id="product22" available="true">
+  <name>New Balance Кроссовки Warped Runner Beige (39)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product22#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product22.png</picture>
+  <count>25</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 22: размер 40 -->
+<offer id="sku22_40" group_id="product22" available="true">
+  <name>New Balance Кроссовки Warped Runner Beige (40)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product22#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product22.png</picture>
+  <count>25</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 22: размер 41 -->
+<offer id="sku22_41" group_id="product22" available="true">
+  <name>New Balance Кроссовки Warped Runner Beige (41)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product22#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product22.png</picture>
+  <count>25</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 22: размер 42 -->
+<offer id="sku22_42" group_id="product22" available="true">
+  <name>New Balance Кроссовки Warped Runner Beige (42)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product22#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product22.png</picture>
+  <count>25</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 22: размер 43 -->
+<offer id="sku22_43" group_id="product22" available="true">
+  <name>New Balance Кроссовки Warped Runner Beige (43)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product22#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product22.png</picture>
+  <count>25</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 22: размер 44 -->
+<offer id="sku22_44" group_id="product22" available="true">
+  <name>New Balance Кроссовки Warped Runner Beige (44)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product22#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product22.png</picture>
+  <count>25</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 22: размер 45 -->
+<offer id="sku22_45" group_id="product22" available="true">
+  <name>New Balance Кроссовки Warped Runner Beige (45)</name>
+  <price>20999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product22#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product22.png</picture>
+  <count>25</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- ПРОДУКТ 23: New Balance Warped Runner Khaki (Унисекс) -->
+<offer id="product23" available="true">
+  <name>New Balance Кроссовки Warped Runner Khaki</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product23</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product23.png</picture>
+  <count>191</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 23: размер 36 -->
+<offer id="sku23_36" group_id="product23" available="true">
+  <name>New Balance Кроссовки Warped Runner Khaki (36)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product23#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product23.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 23: размер 37 -->
+<offer id="sku23_37" group_id="product23" available="true">
+  <name>New Balance Кроссовки Warped Runner Khaki (37)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product23#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product23.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 23: размер 38 -->
+<offer id="sku23_38" group_id="product23" available="true">
+  <name>New Balance Кроссовки Warped Runner Khaki (38)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product23#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product23.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 23: размер 39 -->
+<offer id="sku23_39" group_id="product23" available="true">
+  <name>New Balance Кроссовки Warped Runner Khaki (39)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product23#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product23.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 23: размер 40 -->
+<offer id="sku23_40" group_id="product23" available="true">
+  <name>New Balance Кроссовки Warped Runner Khaki (40)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product23#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product23.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 23: размер 41 -->
+<offer id="sku23_41" group_id="product23" available="true">
+  <name>New Balance Кроссовки Warped Runner Khaki (41)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product23#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product23.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 23: размер 42 -->
+<offer id="sku23_42" group_id="product23" available="true">
+  <name>New Balance Кроссовки Warped Runner Khaki (42)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product23#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product23.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 23: размер 43 -->
+<offer id="sku23_43" group_id="product23" available="true">
+  <name>New Balance Кроссовки Warped Runner Khaki (43)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product23#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product23.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 23: размер 44 -->
+<offer id="sku23_44" group_id="product23" available="true">
+  <name>New Balance Кроссовки Warped Runner Khaki (44)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product23#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product23.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 23: размер 45 -->
+<offer id="sku23_45" group_id="product23" available="true">
+  <name>New Balance Кроссовки Warped Runner Khaki (45)</name>
+  <price>20499</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product23#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product23.png</picture>
+  <count>20</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- ПРОДУКТ 24: New Balance Warped Runner Gray (Унисекс) -->
+<offer id="product24" available="true">
+  <name>New Balance Кроссовки Warped Runner Gray</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product24</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product24.png</picture>
+  <count>191</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 24: размер 36 -->
+<offer id="sku24_36" group_id="product24" available="true">
+  <name>New Balance Кроссовки Warped Runner Gray (36)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product24#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product24.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 24: размер 37 -->
+<offer id="sku24_37" group_id="product24" available="true">
+  <name>New Balance Кроссовки Warped Runner Gray (37)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product24#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product24.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 24: размер 38 -->
+<offer id="sku24_38" group_id="product24" available="true">
+  <name>New Balance Кроссовки Warped Runner Gray (38)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product24#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product24.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 24: размер 39 -->
+<offer id="sku24_39" group_id="product24" available="true">
+  <name>New Balance Кроссовки Warped Runner Gray (39)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product24#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product24.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 24: размер 40 -->
+<offer id="sku24_40" group_id="product24" available="true">
+  <name>New Balance Кроссовки Warped Runner Gray (40)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product24#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product24.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 24: размер 41 -->
+<offer id="sku24_41" group_id="product24" available="true">
+  <name>New Balance Кроссовки Warped Runner Gray (41)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product24#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product24.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 24: размер 42 -->
+<offer id="sku24_42" group_id="product24" available="true">
+  <name>New Balance Кроссовки Warped Runner Gray (42)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product24#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product24.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 24: размер 43 -->
+<offer id="sku24_43" group_id="product24" available="true">
+  <name>New Balance Кроссовки Warped Runner Gray (43)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product24#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product24.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 24: размер 44 -->
+<offer id="sku24_44" group_id="product24" available="true">
+  <name>New Balance Кроссовки Warped Runner Gray (44)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product24#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product24.png</picture>
+  <count>20</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 24: размер 45 -->
+<offer id="sku24_45" group_id="product24" available="true">
+  <name>New Balance Кроссовки Warped Runner Gray (45)</name>
+  <price>24999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product24#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product24.png</picture>
+  <count>20</count>
+  <delivery>true</delivery>
+</offer>
+
+
+<!-- ПРОДУКТ 25: New Balance 574 Blue (Женские) -->
+<offer id="product25" available="true">
+  <name>New Balance Женские кроссовки 574 Blue</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product25</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product25.png</picture>
+  <count>130</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 25: размер 36 -->
+<offer id="sku25_36" group_id="product25" available="true">
+  <name>New Balance Женские кроссовки 574 Blue (36)</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product25#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product25.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 25: размер 37 -->
+<offer id="sku25_37" group_id="product25" available="true">
+  <name>New Balance Женские кроссовки 574 Blue (37)</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product25#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product25.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 25: размер 38 -->
+<offer id="sku25_38" group_id="product25" available="true">
+  <name>New Balance Женские кроссовки 574 Blue (38)</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product25#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product25.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 25: размер 39 -->
+<offer id="sku25_39" group_id="product25" available="true">
+  <name>New Balance Женские кроссовки 574 Blue (39)</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product25#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product25.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 25: размер 40 -->
+<offer id="sku25_40" group_id="product25" available="true">
+  <name>New Balance Женские кроссовки 574 Blue (40)</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product25#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product25.png</picture>
+  <count>18</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 25: размер 41 -->
+<offer id="sku25_41" group_id="product25" available="true">
+  <name>New Balance Женские кроссовки 574 Blue (41)</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product25#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product25.png</picture>
+  <count>18</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 25: размер 42 -->
+<offer id="sku25_42" group_id="product25" available="true">
+  <name>New Balance Женские кроссовки 574 Blue (42)</name>
+  <price>18999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product25#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product25.png</picture>
+  <count>18</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- ПРОДУКТ 26: New Balance 574 Beige (Женские) -->
+<offer id="product26" available="true">
+  <name>New Balance Женские кроссовки 574 Beige</name>
+  <price>15399</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product26</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product26.png</picture>
+  <count>130</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 26: размер 36 -->
+<offer id="sku26_36" group_id="product26" available="true">
+  <name>New Balance Женские кроссовки 574 Beige (36)</name>
+  <price>15399</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product26#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product26.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 26: размер 37 -->
+<offer id="sku26_37" group_id="product26" available="true">
+  <name>New Balance Женские кроссовки 574 Beige (37)</name>
+  <price>15399</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product26#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product26.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 26: размер 38 -->
+<offer id="sku26_38" group_id="product26" available="true">
+  <name>New Balance Женские кроссовки 574 Beige (38)</name>
+  <price>15399</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product26#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product26.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 26: размер 39 -->
+<offer id="sku26_39" group_id="product26" available="true">
+  <name>New Balance Женские кроссовки 574 Beige (39)</name>
+  <price>15399</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product26#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product26.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 26: размер 40 -->
+<offer id="sku26_40" group_id="product26" available="true">
+  <name>New Balance Женские кроссовки 574 Beige (40)</name>
+  <price>15399</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product26#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product26.png</picture>
+  <count>18</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 26: размер 41 -->
+<offer id="sku26_41" group_id="product26" available="true">
+  <name>New Balance Женские кроссовки 574 Beige (41)</name>
+  <price>15399</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product26#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product26.png</picture>
+  <count>18</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 26: размер 42 -->
+<offer id="sku26_42" group_id="product26" available="true">
+  <name>New Balance Женские кроссовки 574 Beige (42)</name>
+  <price>15399</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product26#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product26.png</picture>
+  <count>18</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+
+<!-- ПРОДУКТ 27: New Balance 9060 Black/White (Унисекс) -->
+<offer id="product27" available="true">
+  <name>New Balance Кроссовки 9060 Black/White</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product27</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product27.png</picture>
+  <count>310</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 27: размер 36 -->
+<offer id="sku27_36" group_id="product27" available="true">
+  <name>New Balance Кроссовки 9060 Black/White (36)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product27#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product27.png</picture>
+  <count>31</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 27: размер 37 -->
+<offer id="sku27_37" group_id="product27" available="true">
+  <name>New Balance Кроссовки 9060 Black/White (37)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product27#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product27.png</picture>
+  <count>31</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 27: размер 38 -->
+<offer id="sku27_38" group_id="product27" available="true">
+  <name>New Balance Кроссовки 9060 Black/White (38)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product27#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product27.png</picture>
+  <count>31</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 27: размер 39 -->
+<offer id="sku27_39" group_id="product27" available="true">
+  <name>New Balance Кроссовки 9060 Black/White (39)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product27#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product27.png</picture>
+  <count>31</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 27: размер 40 -->
+<offer id="sku27_40" group_id="product27" available="true">
+  <name>New Balance Кроссовки 9060 Black/White (40)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product27#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product27.png</picture>
+  <count>31</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 27: размер 41 -->
+<offer id="sku27_41" group_id="product27" available="true">
+  <name>New Balance Кроссовки 9060 Black/White (41)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product27#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product27.png</picture>
+  <count>31</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 27: размер 42 -->
+<offer id="sku27_42" group_id="product27" available="true">
+  <name>New Balance Кроссовки 9060 Black/White (42)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product27#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product27.png</picture>
+  <count>31</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 27: размер 43 -->
+<offer id="sku27_43" group_id="product27" available="true">
+  <name>New Balance Кроссовки 9060 Black/White (43)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product27#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product27.png</picture>
+  <count>31</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 27: размер 44 -->
+<offer id="sku27_44" group_id="product27" available="true">
+  <name>New Balance Кроссовки 9060 Black/White (44)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product27#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product27.png</picture>
+  <count>31</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 27: размер 45 -->
+<offer id="sku27_45" group_id="product27" available="true">
+  <name>New Balance Кроссовки 9060 Black/White (45)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product27#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product27.png</picture>
+  <count>31</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- ПРОДУКТ 28: New Balance 9060 Black/Concord (Унисекс) -->
+<offer id="product28" available="true">
+  <name>New Balance Кроссовки 9060 Black/Concord</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product28</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product28.png</picture>
+  <count>279</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 28: размер 36 -->
+<offer id="sku28_36" group_id="product28" available="true">
+  <name>New Balance Кроссовки 9060 Black/Concord (36)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product28#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product28.png</picture>
+  <count>28</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 28: размер 37 -->
+<offer id="sku28_37" group_id="product28" available="true">
+  <name>New Balance Кроссовки 9060 Black/Concord (37)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product28#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product28.png</picture>
+  <count>28</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 28: размер 38 -->
+<offer id="sku28_38" group_id="product28" available="true">
+  <name>New Balance Кроссовки 9060 Black/Concord (38)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product28#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product28.png</picture>
+  <count>28</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 28: размер 39 -->
+<offer id="sku28_39" group_id="product28" available="true">
+  <name>New Balance Кроссовки 9060 Black/Concord (39)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product28#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product28.png</picture>
+  <count>28</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 28: размер 40 -->
+<offer id="sku28_40" group_id="product28" available="true">
+  <name>New Balance Кроссовки 9060 Black/Concord (40)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product28#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product28.png</picture>
+  <count>28</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 28: размер 41 -->
+<offer id="sku28_41" group_id="product28" available="true">
+  <name>New Balance Кроссовки 9060 Black/Concord (41)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product28#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product28.png</picture>
+  <count>28</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 28: размер 42 -->
+<offer id="sku28_42" group_id="product28" available="true">
+  <name>New Balance Кроссовки 9060 Black/Concord (42)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product28#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product28.png</picture>
+  <count>28</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 28: размер 43 -->
+<offer id="sku28_43" group_id="product28" available="true">
+  <name>New Balance Кроссовки 9060 Black/Concord (43)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product28#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product28.png</picture>
+  <count>27</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 28: размер 44 -->
+<offer id="sku28_44" group_id="product28" available="true">
+  <name>New Balance Кроссовки 9060 Black/Concord (44)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product28#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product28.png</picture>
+  <count>28</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 28: размер 45 -->
+<offer id="sku28_45" group_id="product28" available="true">
+  <name>New Balance Кроссовки 9060 Black/Concord (45)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product28#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product28.png</picture>
+  <count>28</count>
+  <delivery>true</delivery>
+</offer>
+
+
+<!-- ПРОДУКТ 29: New Balance 9060 Gray/Pink/Green (Унисекс) -->
+<offer id="product29" available="true">
+  <name>New Balance Кроссовки 9060 Gray/Pink/Green</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product29</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product29.png</picture>
+  <count>90</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 29: размер 36 -->
+<offer id="sku29_36" group_id="product29" available="true">
+  <name>New Balance Кроссовки 9060 Gray/Pink/Green (36)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product29#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product29.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 29: размер 37 -->
+<offer id="sku29_37" group_id="product29" available="true">
+  <name>New Balance Кроссовки 9060 Gray/Pink/Green (37)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product29#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product29.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 29: размер 38 -->
+<offer id="sku29_38" group_id="product29" available="true">
+  <name>New Balance Кроссовки 9060 Gray/Pink/Green (38)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product29#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product29.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 29: размер 39 -->
+<offer id="sku29_39" group_id="product29" available="true">
+  <name>New Balance Кроссовки 9060 Gray/Pink/Green (39)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product29#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product29.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 29: размер 40 -->
+<offer id="sku29_40" group_id="product29" available="true">
+  <name>New Balance Кроссовки 9060 Gray/Pink/Green (40)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product29#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product29.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 29: размер 41 -->
+<offer id="sku29_41" group_id="product29" available="true">
+  <name>New Balance Кроссовки 9060 Gray/Pink/Green (41)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product29#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product29.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 29: размер 42 -->
+<offer id="sku29_42" group_id="product29" available="true">
+  <name>New Balance Кроссовки 9060 Gray/Pink/Green (42)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product29#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product29.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 29: размер 43 -->
+<offer id="sku29_43" group_id="product29" available="true">
+  <name>New Balance Кроссовки 9060 Gray/Pink/Green (43)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product29#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product29.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 29: размер 44 -->
+<offer id="sku29_44" group_id="product29" available="true">
+  <name>New Balance Кроссовки 9060 Gray/Pink/Green (44)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product29#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product29.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 29: размер 45 -->
+<offer id="sku29_45" group_id="product29" available="true">
+  <name>New Balance Кроссовки 9060 Gray/Pink/Green (45)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product29#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product29.png</picture>
+  <count>9</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- ПРОДУКТ 30: New Balance 9060 Gray/White/Beige (Унисекс) -->
+<offer id="product30" available="true">
+  <name>New Balance Кроссовки 9060 Gray/White/Beige</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product30</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product30.png</picture>
+  <count>190</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 30: размер 36 -->
+<offer id="sku30_36" group_id="product30" available="true">
+  <name>New Balance Кроссовки 9060 Gray/White/Beige (36)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product30#sku36</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product30.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 30: размер 37 -->
+<offer id="sku30_37" group_id="product30" available="true">
+  <name>New Balance Кроссовки 9060 Gray/White/Beige (37)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product30#sku37</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product30.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 30: размер 38 -->
+<offer id="sku30_38" group_id="product30" available="true">
+  <name>New Balance Кроссовки 9060 Gray/White/Beige (38)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product30#sku38</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product30.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 30: размер 39 -->
+<offer id="sku30_39" group_id="product30" available="true">
+  <name>New Balance Кроссовки 9060 Gray/White/Beige (39)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product30#sku39</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product30.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 30: размер 40 -->
+<offer id="sku30_40" group_id="product30" available="true">
+  <name>New Balance Кроссовки 9060 Gray/White/Beige (40)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product30#sku40</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product30.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 30: размер 41 -->
+<offer id="sku30_41" group_id="product30" available="true">
+  <name>New Balance Кроссовки 9060 Gray/White/Beige (41)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product30#sku41</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product30.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 30: размер 42 -->
+<offer id="sku30_42" group_id="product30" available="true">
+  <name>New Balance Кроссовки 9060 Gray/White/Beige (42)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product30#sku42</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product30.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 30: размер 43 -->
+<offer id="sku30_43" group_id="product30" available="true">
+  <name>New Balance Кроссовки 9060 Gray/White/Beige (43)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product30#sku43</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product30.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 30: размер 44 -->
+<offer id="sku30_44" group_id="product30" available="true">
+  <name>New Balance Кроссовки 9060 Gray/White/Beige (44)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product30#sku44</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product30.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+<!-- SKU продукта 30: размер 45 -->
+<offer id="sku30_45" group_id="product30" available="true">
+  <name>New Balance Кроссовки 9060 Gray/White/Beige (45)</name>
+  <price>25999</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>1</categoryId>
+  <categoryId>2</categoryId>
+  <categoryId>5</categoryId>
+  <categoryId>7</categoryId>
+  <categoryId>10</categoryId>
+  <vendor>New Balance</vendor>
+  <url>https://demoshop.com/product30#sku45</url>
+  <picture>https://psmith30364.github.io/loyalty/images/product30.png</picture>
+  <count>19</count>
+  <delivery>true</delivery>
+</offer>
+
+
+
+
+
     </offers>
   </shop>
 </yml_catalog>  
