@@ -1,3 +1,5 @@
+
+
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2026-01-01 00:00">
   <shop>
@@ -5,7 +7,7 @@
     <company>Demo Sneakers Shop LLC</company>
     <url>https://demoshop.com</url>
     
-    <!-- ==================== КАТЕГОРИИ ==================== -->
+    
     <categories>
       <!-- Корневая категория -->
       <category id="1">Кроссовки</category>
