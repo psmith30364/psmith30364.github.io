@@ -358,10 +358,9 @@
         <name>Nike Женские кроссовки P-6000 Burgundy Crush</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
-        <categoryId>8</categoryId>
         <categoryId>7</categoryId>
+        <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product4</url>
         <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
@@ -374,10 +373,9 @@
         <name>Nike Женские кроссовки P-6000 Burgundy Crush (36)</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
-        <categoryId>8</categoryId>
         <categoryId>7</categoryId>
+        <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product4#sku36</url>
         <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
@@ -390,10 +388,9 @@
         <name>Nike Женские кроссовки P-6000 Burgundy Crush (37)</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
-        <categoryId>8</categoryId>
         <categoryId>7</categoryId>
+        <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product4#sku37</url>
         <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
@@ -406,10 +403,9 @@
         <name>Nike Женские кроссовки P-6000 Burgundy Crush (38)</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
-        <categoryId>8</categoryId>
         <categoryId>7</categoryId>
+        <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product4#sku38</url>
         <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
@@ -422,10 +418,9 @@
         <name>Nike Женские кроссовки P-6000 Burgundy Crush (39)</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
-        <categoryId>8</categoryId>
         <categoryId>7</categoryId>
+        <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product4#sku39</url>
         <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
@@ -438,10 +433,9 @@
         <name>Nike Женские кроссовки P-6000 Burgundy Crush (40)</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
-        <categoryId>8</categoryId>
         <categoryId>7</categoryId>
+        <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product4#sku40</url>
         <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
@@ -454,10 +448,9 @@
         <name>Nike Женские кроссовки P-6000 Burgundy Crush (41)</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
-        <categoryId>8</categoryId>
         <categoryId>7</categoryId>
+        <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product4#sku41</url>
         <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
@@ -470,10 +463,9 @@
         <name>Nike Женские кроссовки P-6000 Burgundy Crush (42)</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
-        <categoryId>8</categoryId>
         <categoryId>7</categoryId>
+        <categoryId>8</categoryId>
         <vendor>Nike</vendor>
         <url>https://demoshop.com/product4#sku42</url>
         <picture>https://psmith30364.github.io/loyalty/images/product4.png</picture>
@@ -488,7 +480,6 @@
         <name>Nike Женские кроссовки P-6000 Platinum Tint</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
         <categoryId>7</categoryId>
         <categoryId>8</categoryId>
@@ -504,7 +495,6 @@
         <name>Nike Женские кроссовки P-6000 Platinum Tint (36)</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
         <categoryId>7</categoryId>
         <categoryId>8</categoryId>
@@ -520,7 +510,6 @@
         <name>Nike Женские кроссовки P-6000 Platinum Tint (37)</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
         <categoryId>7</categoryId>
         <categoryId>8</categoryId>
@@ -536,7 +525,6 @@
         <name>Nike Женские кроссовки P-6000 Platinum Tint (38)</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
         <categoryId>7</categoryId>
         <categoryId>8</categoryId>
@@ -552,7 +540,6 @@
         <name>Nike Женские кроссовки P-6000 Platinum Tint (39)</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
         <categoryId>7</categoryId>
         <categoryId>8</categoryId>
@@ -568,7 +555,6 @@
         <name>Nike Женские кроссовки P-6000 Platinum Tint (40)</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
         <categoryId>7</categoryId>
         <categoryId>8</categoryId>
@@ -584,7 +570,6 @@
         <name>Nike Женские кроссовки P-6000 Platinum Tint (41)</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
         <categoryId>7</categoryId>
         <categoryId>8</categoryId>
@@ -600,7 +585,6 @@
         <name>Nike Женские кроссовки P-6000 Platinum Tint (42)</name>
         <price>16999</price>
         <currencyId>RUB</currencyId>
-        <categoryId>sneakers_women</categoryId>
         <categoryId>1</categoryId>
         <categoryId>7</categoryId>
         <categoryId>8</categoryId>
